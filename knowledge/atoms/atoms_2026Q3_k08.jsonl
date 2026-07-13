@@ -1,63 +1,63 @@
-{"id":"k08-001","knowledge":"早产儿须按纠正月龄判断发育，极早产可延用到3岁，用实际月龄会高估落后。","skills":["edu-diagnosis"],"topics":["发展","里程碑","早产"],"type":"method","confidence":0.9}
-{"id":"k08-002","knowledge":"新生儿视距约20-30厘米，正是喂奶时脸到眼睛的距离，给新生儿看不宜远于此距。","skills":["edu-diagnosis"],"topics":["发展","新生儿"],"type":"principle","confidence":0.9}
-{"id":"k08-003","knowledge":"听力分月龄参考：0-4月惊跳找声源，4-8月对名反应，8-12月转头模仿声。","skills":["edu-diagnosis"],"topics":["发展","听力","里程碑"],"type":"principle","confidence":0.9}
-{"id":"k08-004","knowledge":"4月龄一天总睡眠约13.5-15小时，白天从三四次并为三次，每次30-45分钟是常态。","skills":["edu-diagnosis","edu-routine"],"topics":["发展","睡眠","里程碑"],"type":"principle","confidence":0.9}
-{"id":"k08-005","knowledge":"6-8周后头型仍明显扁，须区分体位性扁头（俯趴变换方向改善）与颅缝早闭（尽快神经外科评估）。","skills":["edu-diagnosis"],"topics":["发展","新生儿"],"type":"method","confidence":0.9}
-{"id":"k08-006","knowledge":"饥饿信号分三期：早期咂嘴转头，中期扭动吸手，晚期才哭，哭已是晚期太饿反而难含乳。","skills":["edu-diagnosis","edu-routine"],"topics":["发展","喂养","新生儿"],"type":"method","confidence":0.95}
-{"id":"k08-007","knowledge":"新生儿清醒窗口约45-90分钟，眼神失焦→揉眼打哈欠→哭，读信号再回应比哭了才抱更准。","skills":["edu-diagnosis","edu-routine"],"topics":["发展","睡眠","新生儿"],"type":"method","confidence":0.95}
-{"id":"k08-008","knowledge":"哭声系统排查顺序：吃奶时间→清醒窗口→身体不适→换活动→疼痛/紫色哭泣，按序走比抱起就喂更准。","skills":["edu-diagnosis","edu-routine"],"topics":["发展","新生儿"],"type":"method","confidence":0.9}
-{"id":"k08-009","knowledge":"4-8周出现互动性微笑，约3月伸手碰人脸或玩具，是社交脑接线的标志。","skills":["edu-diagnosis"],"topics":["发展","社交","里程碑"],"type":"principle","confidence":0.9}
-{"id":"k08-010","knowledge":"泪管堵塞常见出生至12周，眼水汪汪不红不肿，多数1岁自通，眼红或脓性需就医。","skills":["edu-diagnosis"],"topics":["发展","新生儿"],"type":"method","confidence":0.85}
-{"id":"k08-011","knowledge":"紫色哭泣期是2周至3-4月的哭闹高峰，有高峰无征兆起止难安抚傍晚多见，知道名字即帮家长放下自责。","skills":["edu-diagnosis"],"topics":["发展","情绪","新生儿"],"type":"principle","confidence":0.9}
-{"id":"k08-012","knowledge":"区分紫色哭泣与疼痛：疼痛有伴随症无间歇，紫色哭泣间歇正常，拿不准连续记2-3天给医生。","skills":["edu-diagnosis"],"topics":["发展","新生儿"],"type":"method","confidence":0.85}
-{"id":"k08-013","knowledge":"发育红旗信号：3月不抬头不追视，6月不翻身不抓物，9月不独坐不咿呀，12月不扶站不指物不模仿，能力倒退比还不会更急。","skills":["edu-diagnosis"],"topics":["发展","里程碑","异常信号"],"type":"principle","confidence":0.95}
-{"id":"k08-014","knowledge":"精细动作成熟后从口探转手探，不须强力禁口探但可顺势引手探。","skills":["edu-behavior","edu-diagnosis"],"topics":["发展","精细动作"],"type":"method","confidence":0.85}
-{"id":"k08-015","knowledge":"2-3岁前左右手交替正常，大脑半球优势在博弈中，不急于判左撇子。","skills":["edu-diagnosis"],"topics":["发展","精细动作"],"type":"principle","confidence":0.9}
-{"id":"k08-016","knowledge":"二胎后2-4周老大常见行为倒退，不是退步是确认归属，越被接纳消退越快。","skills":["edu-behavior"],"topics":["行为","情绪","二胎"],"type":"insight","confidence":0.9}
-{"id":"k08-017","knowledge":"异常乖退到一边同样要看见，每天问：你有没有什么想让我知道的。","skills":["edu-communicate","edu-behavior"],"topics":["情绪","行为"],"type":"insight","confidence":0.85}
-{"id":"k08-018","knowledge":"每天10分钟专属时间：不看手机不教学，孩子定玩法你跟着，不在长在每天有。","skills":["edu-behavior","edu-communicate"],"topics":["行为","依恋"],"type":"method","confidence":0.9}
-{"id":"k08-019","knowledge":"放学后自我约束崩塌：在校强撑回家崩溃，是自制力耗尽后的安全区释放，别问开心吗先给安静抱。","skills":["edu-behavior"],"topics":["行为","情绪"],"type":"insight","confidence":0.9}
-{"id":"k08-020","knowledge":"气质分三型：随和型约40%，慢热型约15%，困难型约10%，混合型约35%，重点配环境非改气质。","skills":["edu-diagnosis"],"topics":["气质","发展"],"type":"principle","confidence":0.85}
-{"id":"k08-021","knowledge":"高反应性婴儿15年追踪更可能变谨慎沉思青少年，非胆小没出息，是观察优先策略。","skills":["edu-diagnosis"],"topics":["气质","发展"],"type":"insight","confidence":0.85}
-{"id":"k08-022","knowledge":"四种情绪处理风格：忽视型、否定型、放任型、教练型，教练型最利于孩子调节。","skills":["edu-behavior","edu-communicate"],"topics":["情绪"],"type":"principle","confidence":0.9}
-{"id":"k08-023","knowledge":"RULER五步：认出→理解前因→标签→表达→调节，日常入口是给情绪准确词。","skills":["edu-behavior","edu-communicate"],"topics":["情绪"],"type":"method","confidence":0.9}
-{"id":"k08-024","knowledge":"压力三级：正向短暂有人陪、可耐受强但有缓冲、毒性长期无助无缓冲伤海马体和前额叶，关键是每次压力旁有接得住的大人。","skills":["edu-diagnosis"],"topics":["情绪","压力","发展"],"type":"principle","confidence":0.9}
-{"id":"k08-025","knowledge":"333接地技术：看3样听3声动3部位，约60秒，把注意从警报拉回当下。","skills":["edu-behavior"],"topics":["情绪","压力"],"type":"method","confidence":0.85}
-{"id":"k08-026","knowledge":"焦虑常见五种伪装：愤怒、回避、躯体症状、小事爆炸、沉默，别只当脾气大。","skills":["edu-diagnosis"],"topics":["情绪","焦虑"],"type":"insight","confidence":0.9}
-{"id":"k08-027","knowledge":"七个求救信号：兴趣丧失、易怒、反复躯体疼、负面自我评价、睡眠食欲变、成绩下滑、无望感，两三条持续两周建议专业评估。","skills":["edu-diagnosis"],"topics":["情绪","心理健康"],"type":"method","confidence":0.9}
-{"id":"k08-028","knowledge":"直接问自伤念头不会种下风险，被问者常松口气，平静问：你最近有没有那种活着没意思的感觉。","skills":["edu-communicate"],"topics":["情绪","心理健康"],"type":"method","confidence":0.9}
-{"id":"k08-029","knowledge":"发脾气最早9月开始，预防比灭火有效：不让孩子太困太饿、预告即将结束、给有限选择。","skills":["edu-behavior","edu-routine"],"topics":["行为","情绪"],"type":"method","confidence":0.9}
-{"id":"k08-030","knowledge":"给幼儿两个选项且拿在手里，蓝的还是红的比你要穿什么效率高，选了就是他自己决定的。","skills":["edu-behavior","edu-communicate"],"topics":["行为","沟通"],"type":"method","confidence":0.9}
-{"id":"k08-031","knowledge":"用自然终点预告：再滑五次就回家，比突然打断抵抗少得多。","skills":["edu-behavior","edu-communicate"],"topics":["行为","沟通"],"type":"method","confidence":0.9}
-{"id":"k08-032","knowledge":"12-15月从两次午睡过渡到一次，晚上入睡须提前，否则累积疲劳引发下午行为爆炸。","skills":["edu-routine"],"topics":["睡眠","行为"],"type":"method","confidence":0.85}
-{"id":"k08-033","knowledge":"幼儿约2.5-3小时需进食，一天约五餐，很多行为问题其实是低血糖。","skills":["edu-routine","edu-diagnosis"],"topics":["喂养","行为"],"type":"insight","confidence":0.9}
-{"id":"k08-034","knowledge":"少说不要不许，用正面语言：用走的代替不许跑。","skills":["edu-communicate","edu-behavior"],"topics":["沟通","行为"],"type":"method","confidence":0.9}
-{"id":"k08-035","knowledge":"牢骚被强化是因正常语气没人理，一哼哼大人回头，正常开口时立即回应。","skills":["edu-behavior","edu-communicate"],"topics":["行为","沟通"],"type":"insight","confidence":0.9}
-{"id":"k08-036","knowledge":"消退爆发：旧行为无反馈时先猛增，此时放弃等于教孩子哭更大声，挺过一两次行为反速消退。","skills":["edu-behavior"],"topics":["行为"],"type":"principle","confidence":0.9}
-{"id":"k08-037","knowledge":"用可观察的等待替代等一下：等妈妈切完这三块、等计时器响。","skills":["edu-communicate"],"topics":["沟通"],"type":"method","confidence":0.85}
-{"id":"k08-038","knowledge":"咬人第一反应先关注被咬者安慰检查，安顿好后对咬人者说咬人不可以疼，事后冷静找触发规律。","skills":["edu-behavior","edu-communicate"],"topics":["行为"],"type":"method","confidence":0.9}
-{"id":"k08-039","knowledge":"重复我理解你像复读机火上浇油，一遍共情后安静身体陪伴，大脑要一两分钟自己下坡。","skills":["edu-communicate","edu-behavior"],"topics":["情绪","沟通"],"type":"insight","confidence":0.9}
-{"id":"k08-040","knowledge":"不问幼儿为什么——自省加语言加安全感幼儿都未长好，替代：我看到X→我们要解决→事后再聊。","skills":["edu-communicate"],"topics":["沟通"],"type":"method","confidence":0.9}
-{"id":"k08-041","knowledge":"指令长度分龄：18月一步，2岁相关两步，3岁不相关两步，5岁三步，超了不是不听话是工作记忆端不住。","skills":["edu-communicate","edu-diagnosis"],"topics":["沟通","发展"],"type":"method","confidence":0.9}
-{"id":"k08-042","knowledge":"你再这样我就走了等于条件式爱/生存威胁，替代：我有点生气需要自己待一分钟不会走远。","skills":["edu-communicate"],"topics":["沟通","依恋"],"type":"anti-pattern","confidence":0.9}
-{"id":"k08-043","knowledge":"锚定句三件套逆转回避型依恋：你看起来真的很难受、我在这里、我先听不急着解决。","skills":["edu-communicate"],"topics":["依恋","沟通"],"type":"method","confidence":0.9}
-{"id":"k08-044","knowledge":"别总说小心，换具体线索：脚稳吗、下一步放哪、两只手抓住、先停住看。","skills":["edu-communicate"],"topics":["沟通"],"type":"method","confidence":0.85}
-{"id":"k08-045","knowledge":"帮忙五档：看→问→提示→示范→接手，前两档多数够用。","skills":["edu-communicate","edu-behavior"],"topics":["沟通"],"type":"method","confidence":0.85}
-{"id":"k08-046","knowledge":"学习盘：主盘放接受的食物，旁盘放新食物，只观察不要求吃，十余次接触是常态。","skills":["edu-behavior","edu-communicate"],"topics":["喂养","行为"],"type":"method","confidence":0.85}
-{"id":"k08-047","knowledge":"不用负面词形容食物，用中性词：圆的绿的脆的软的，孩子自己判断。","skills":["edu-communicate"],"topics":["喂养","沟通"],"type":"method","confidence":0.85}
-{"id":"k08-048","knowledge":"练积极倾听从轻度困扰开始——选孩子一点点烦但不炸毛的时刻。","skills":["edu-communicate"],"topics":["沟通"],"type":"method","confidence":0.85}
-{"id":"k08-049","knowledge":"帮独立两话术：时间预算翻倍少催催掉的是正在长的能力；做一半留一半套一只袜子另一只他自己。","skills":["edu-behavior","edu-communicate"],"topics":["独立","沟通"],"type":"method","confidence":0.9}
-{"id":"k08-050","knowledge":"静止脸实验：妈面无表情后婴儿从互动到崩溃，启示不怕偶尔走神，怕断开不修复。","skills":["edu-diagnosis"],"topics":["依恋"],"type":"insight","confidence":0.9}
-{"id":"k08-051","knowledge":"关键互动给15秒完整脸：喂奶前笑一下、换尿布先说一句、垫上反扣屏幕看他。","skills":["edu-communicate"],"topics":["依恋"],"type":"method","confidence":0.85}
-{"id":"k08-052","knowledge":"无声抱起触发莫罗反射，先讲我要抱你咯给一秒准备。","skills":["edu-communicate"],"topics":["新生儿"],"type":"method","confidence":0.85}
-{"id":"k08-053","knowledge":"阶梯式分离四层：同室不干预→离开30秒-2分→出门10-20分→新环境短离，不跳级真的回来。","skills":["edu-behavior"],"topics":["依恋","分离"],"type":"method","confidence":0.9}
-{"id":"k08-054","knowledge":"五种常见图式：轨迹、围合、旋转、连接、搬运，认出图式为顺势配材料，不是纠正。","skills":["edu-diagnosis"],"topics":["发展","游戏"],"type":"principle","confidence":0.85}
-{"id":"k08-055","knowledge":"被同伴持续拒绝，青春期心理问题风险增2-3倍，早期社交排斥是重要预警。","skills":["edu-diagnosis"],"topics":["社交","心理健康"],"type":"insight","confidence":0.9}
-{"id":"k08-056","knowledge":"ADHD三型：多动冲动型手脚不停抢话、注意缺陷型分心丢三落四做白日梦、混合型，找准难块配策略。","skills":["edu-diagnosis"],"topics":["ADHD","特殊需要"],"type":"principle","confidence":0.9}
-{"id":"k08-057","knowledge":"女孩ADHD七信号：做白日梦、话多分散、社交焦虑、完美主义拖延、情绪强、未完成系统、经期加重，不惹事不代表不需要帮助。","skills":["edu-diagnosis"],"topics":["ADHD","特殊需要"],"type":"insight","confidence":0.9}
-{"id":"k08-058","knowledge":"经期雌激素波动影响多巴胺，ADHD女性症状明显加重，懂规律即减自我攻击。","skills":["edu-diagnosis"],"topics":["ADHD","特殊需要"],"type":"insight","confidence":0.85}
-{"id":"k08-059","knowledge":"中度以上ADHD，药物是研究证实最强干预之一，须专业人员指导并搭配行为管理。","skills":["edu-diagnosis"],"topics":["ADHD","特殊需要"],"type":"method","confidence":0.85}
-{"id":"k08-060","knowledge":"三种循证干预：ESDM自然游戏融ABA适用于1-4岁、ABA系统拆解正强化、DIR/Floortime随孩子节奏用情绪连接推发展，没有唯一最好。","skills":["edu-diagnosis"],"topics":["自闭症","特殊需要","干预"],"type":"method","confidence":0.85}
-{"id":"k08-061","knowledge":"ASQ年龄与发育进程问卷：家长自填覆盖1-66月五个能区，阳性只是建议评估，许多社区卫生中心已引入。","skills":["edu-diagnosis"],"topics":["发展","评估","特殊需要"],"type":"tool","confidence":0.85}
-{"id":"k08-062","knowledge":"八种智能日常表现：语言编情节、逻辑数学追为什么、空间画图有纵深、身体动觉精拆装、音乐听几遍会唱、人际调解冲突、内省自知好恶、自然观察盯蚂蚁，不必一根尺子量人。","skills":["edu-diagnosis"],"topics":["资优","发展"],"type":"principle","confidence":0.85}
-{"id":"k08-063","knowledge":"IEP法律基础是残疾人教育法，核心FAPE：特殊需要孩子有权获量身教育方案，不只等长好要创适配环境。","skills":["edu-diagnosis"],"topics":["特殊需要","融合","政策"],"type":"principle","confidence":0.9}
+{"id": "k08-001", "knowledge": "早产儿须按纠正月龄判断发育，极早产可延用到3岁，用实际月龄会高估落后。", "skills": ["edu-diagnosis"], "topics": ["发展", "里程碑", "早产"], "type": "method", "confidence": 0.9}
+{"id": "k08-002", "knowledge": "新生儿视距约20-30厘米，正是喂奶时脸到眼睛的距离，给新生儿看不宜远于此距。", "skills": ["edu-diagnosis"], "topics": ["发展", "新生儿"], "type": "principle", "confidence": 0.9}
+{"id": "k08-003", "knowledge": "听力分月龄参考：0-4月惊跳找声源，4-8月对名反应，8-12月转头模仿声。", "skills": ["edu-diagnosis"], "topics": ["发展", "听力", "里程碑"], "type": "principle", "confidence": 0.9}
+{"id": "k08-004", "knowledge": "4月龄一天总睡眠约13.5-15小时，白天从三四次并为三次，每次30-45分钟是常态。", "skills": ["edu-diagnosis", "edu-family"], "topics": ["发展", "睡眠", "里程碑"], "type": "principle", "confidence": 0.9}
+{"id": "k08-005", "knowledge": "6-8周后头型仍明显扁，须区分体位性扁头（俯趴变换方向改善）与颅缝早闭（尽快神经外科评估）。", "skills": ["edu-diagnosis"], "topics": ["发展", "新生儿"], "type": "method", "confidence": 0.9}
+{"id": "k08-006", "knowledge": "饥饿信号分三期：早期咂嘴转头，中期扭动吸手，晚期才哭，哭已是晚期太饿反而难含乳。", "skills": ["edu-diagnosis", "edu-family"], "topics": ["发展", "喂养", "新生儿"], "type": "method", "confidence": 0.95}
+{"id": "k08-007", "knowledge": "新生儿清醒窗口约45-90分钟，眼神失焦→揉眼打哈欠→哭，读信号再回应比哭了才抱更准。", "skills": ["edu-diagnosis", "edu-family"], "topics": ["发展", "睡眠", "新生儿"], "type": "method", "confidence": 0.95}
+{"id": "k08-008", "knowledge": "哭声系统排查顺序：吃奶时间→清醒窗口→身体不适→换活动→疼痛/紫色哭泣，按序走比抱起就喂更准。", "skills": ["edu-diagnosis", "edu-family"], "topics": ["发展", "新生儿"], "type": "method", "confidence": 0.9}
+{"id": "k08-009", "knowledge": "4-8周出现互动性微笑，约3月伸手碰人脸或玩具，是社交脑接线的标志。", "skills": ["edu-diagnosis"], "topics": ["发展", "社交", "里程碑"], "type": "principle", "confidence": 0.9}
+{"id": "k08-010", "knowledge": "泪管堵塞常见出生至12周，眼水汪汪不红不肿，多数1岁自通，眼红或脓性需就医。", "skills": ["edu-diagnosis"], "topics": ["发展", "新生儿"], "type": "method", "confidence": 0.85}
+{"id": "k08-011", "knowledge": "紫色哭泣期是2周至3-4月的哭闹高峰，有高峰无征兆起止难安抚傍晚多见，知道名字即帮家长放下自责。", "skills": ["edu-diagnosis"], "topics": ["发展", "情绪", "新生儿"], "type": "principle", "confidence": 0.9}
+{"id": "k08-012", "knowledge": "区分紫色哭泣与疼痛：疼痛有伴随症无间歇，紫色哭泣间歇正常，拿不准连续记2-3天给医生。", "skills": ["edu-diagnosis"], "topics": ["发展", "新生儿"], "type": "method", "confidence": 0.85}
+{"id": "k08-013", "knowledge": "发育红旗信号：3月不抬头不追视，6月不翻身不抓物，9月不独坐不咿呀，12月不扶站不指物不模仿，能力倒退比还不会更急。", "skills": ["edu-diagnosis"], "topics": ["发展", "里程碑", "异常信号"], "type": "principle", "confidence": 0.95}
+{"id": "k08-014", "knowledge": "精细动作成熟后从口探转手探，不须强力禁口探但可顺势引手探。", "skills": ["edu-behavior", "edu-diagnosis"], "topics": ["发展", "精细动作"], "type": "method", "confidence": 0.85}
+{"id": "k08-015", "knowledge": "2-3岁前左右手交替正常，大脑半球优势在博弈中，不急于判左撇子。", "skills": ["edu-diagnosis"], "topics": ["发展", "精细动作"], "type": "principle", "confidence": 0.9}
+{"id": "k08-016", "knowledge": "二胎后2-4周老大常见行为倒退，不是退步是确认归属，越被接纳消退越快。", "skills": ["edu-behavior"], "topics": ["行为", "情绪", "二胎"], "type": "insight", "confidence": 0.9}
+{"id": "k08-017", "knowledge": "异常乖退到一边同样要看见，每天问：你有没有什么想让我知道的。", "skills": ["edu-connect", "edu-behavior"], "topics": ["情绪", "行为"], "type": "insight", "confidence": 0.85}
+{"id": "k08-018", "knowledge": "每天10分钟专属时间：不看手机不教学，孩子定玩法你跟着，不在长在每天有。", "skills": ["edu-behavior", "edu-connect"], "topics": ["行为", "依恋"], "type": "method", "confidence": 0.9}
+{"id": "k08-019", "knowledge": "放学后自我约束崩塌：在校强撑回家崩溃，是自制力耗尽后的安全区释放，别问开心吗先给安静抱。", "skills": ["edu-behavior"], "topics": ["行为", "情绪"], "type": "insight", "confidence": 0.9}
+{"id": "k08-020", "knowledge": "气质分三型：随和型约40%，慢热型约15%，困难型约10%，混合型约35%，重点配环境非改气质。", "skills": ["edu-diagnosis"], "topics": ["气质", "发展"], "type": "principle", "confidence": 0.85}
+{"id": "k08-021", "knowledge": "高反应性婴儿15年追踪更可能变谨慎沉思青少年，非胆小没出息，是观察优先策略。", "skills": ["edu-diagnosis"], "topics": ["气质", "发展"], "type": "insight", "confidence": 0.85}
+{"id": "k08-022", "knowledge": "四种情绪处理风格：忽视型、否定型、放任型、教练型，教练型最利于孩子调节。", "skills": ["edu-behavior", "edu-connect"], "topics": ["情绪"], "type": "principle", "confidence": 0.9}
+{"id": "k08-023", "knowledge": "RULER五步：认出→理解前因→标签→表达→调节，日常入口是给情绪准确词。", "skills": ["edu-behavior", "edu-connect"], "topics": ["情绪"], "type": "method", "confidence": 0.9}
+{"id": "k08-024", "knowledge": "压力三级：正向短暂有人陪、可耐受强但有缓冲、毒性长期无助无缓冲伤海马体和前额叶，关键是每次压力旁有接得住的大人。", "skills": ["edu-diagnosis"], "topics": ["情绪", "压力", "发展"], "type": "principle", "confidence": 0.9}
+{"id": "k08-025", "knowledge": "333接地技术：看3样听3声动3部位，约60秒，把注意从警报拉回当下。", "skills": ["edu-behavior"], "topics": ["情绪", "压力"], "type": "method", "confidence": 0.85}
+{"id": "k08-026", "knowledge": "焦虑常见五种伪装：愤怒、回避、躯体症状、小事爆炸、沉默，别只当脾气大。", "skills": ["edu-diagnosis"], "topics": ["情绪", "焦虑"], "type": "insight", "confidence": 0.9}
+{"id": "k08-027", "knowledge": "七个求救信号：兴趣丧失、易怒、反复躯体疼、负面自我评价、睡眠食欲变、成绩下滑、无望感，两三条持续两周建议专业评估。", "skills": ["edu-diagnosis"], "topics": ["情绪", "心理健康"], "type": "method", "confidence": 0.9}
+{"id": "k08-028", "knowledge": "直接问自伤念头不会种下风险，被问者常松口气，平静问：你最近有没有那种活着没意思的感觉。", "skills": ["edu-connect"], "topics": ["情绪", "心理健康"], "type": "method", "confidence": 0.9}
+{"id": "k08-029", "knowledge": "发脾气最早9月开始，预防比灭火有效：不让孩子太困太饿、预告即将结束、给有限选择。", "skills": ["edu-behavior", "edu-family"], "topics": ["行为", "情绪"], "type": "method", "confidence": 0.9}
+{"id": "k08-030", "knowledge": "给幼儿两个选项且拿在手里，蓝的还是红的比你要穿什么效率高，选了就是他自己决定的。", "skills": ["edu-behavior", "edu-connect"], "topics": ["行为", "沟通"], "type": "method", "confidence": 0.9}
+{"id": "k08-031", "knowledge": "用自然终点预告：再滑五次就回家，比突然打断抵抗少得多。", "skills": ["edu-behavior", "edu-connect"], "topics": ["行为", "沟通"], "type": "method", "confidence": 0.9}
+{"id": "k08-032", "knowledge": "12-15月从两次午睡过渡到一次，晚上入睡须提前，否则累积疲劳引发下午行为爆炸。", "skills": ["edu-family"], "topics": ["睡眠", "行为"], "type": "method", "confidence": 0.85}
+{"id": "k08-033", "knowledge": "幼儿约2.5-3小时需进食，一天约五餐，很多行为问题其实是低血糖。", "skills": ["edu-family", "edu-diagnosis"], "topics": ["喂养", "行为"], "type": "insight", "confidence": 0.9}
+{"id": "k08-034", "knowledge": "少说不要不许，用正面语言：用走的代替不许跑。", "skills": ["edu-connect", "edu-behavior"], "topics": ["沟通", "行为"], "type": "method", "confidence": 0.9}
+{"id": "k08-035", "knowledge": "牢骚被强化是因正常语气没人理，一哼哼大人回头，正常开口时立即回应。", "skills": ["edu-behavior", "edu-connect"], "topics": ["行为", "沟通"], "type": "insight", "confidence": 0.9}
+{"id": "k08-036", "knowledge": "消退爆发：旧行为无反馈时先猛增，此时放弃等于教孩子哭更大声，挺过一两次行为反速消退。", "skills": ["edu-behavior"], "topics": ["行为"], "type": "principle", "confidence": 0.9}
+{"id": "k08-037", "knowledge": "用可观察的等待替代等一下：等妈妈切完这三块、等计时器响。", "skills": ["edu-connect"], "topics": ["沟通"], "type": "method", "confidence": 0.85}
+{"id": "k08-038", "knowledge": "咬人第一反应先关注被咬者安慰检查，安顿好后对咬人者说咬人不可以疼，事后冷静找触发规律。", "skills": ["edu-behavior", "edu-connect"], "topics": ["行为"], "type": "method", "confidence": 0.9}
+{"id": "k08-039", "knowledge": "重复我理解你像复读机火上浇油，一遍共情后安静身体陪伴，大脑要一两分钟自己下坡。", "skills": ["edu-connect", "edu-behavior"], "topics": ["情绪", "沟通"], "type": "insight", "confidence": 0.9}
+{"id": "k08-040", "knowledge": "不问幼儿为什么——自省加语言加安全感幼儿都未长好，替代：我看到X→我们要解决→事后再聊。", "skills": ["edu-connect"], "topics": ["沟通"], "type": "method", "confidence": 0.9}
+{"id": "k08-041", "knowledge": "指令长度分龄：18月一步，2岁相关两步，3岁不相关两步，5岁三步，超了不是不听话是工作记忆端不住。", "skills": ["edu-connect", "edu-diagnosis"], "topics": ["沟通", "发展"], "type": "method", "confidence": 0.9}
+{"id": "k08-042", "knowledge": "你再这样我就走了等于条件式爱/生存威胁，替代：我有点生气需要自己待一分钟不会走远。", "skills": ["edu-connect"], "topics": ["沟通", "依恋"], "type": "anti-pattern", "confidence": 0.9}
+{"id": "k08-043", "knowledge": "锚定句三件套逆转回避型依恋：你看起来真的很难受、我在这里、我先听不急着解决。", "skills": ["edu-connect"], "topics": ["依恋", "沟通"], "type": "method", "confidence": 0.9}
+{"id": "k08-044", "knowledge": "别总说小心，换具体线索：脚稳吗、下一步放哪、两只手抓住、先停住看。", "skills": ["edu-connect"], "topics": ["沟通"], "type": "method", "confidence": 0.85}
+{"id": "k08-045", "knowledge": "帮忙五档：看→问→提示→示范→接手，前两档多数够用。", "skills": ["edu-connect", "edu-behavior"], "topics": ["沟通"], "type": "method", "confidence": 0.85}
+{"id": "k08-046", "knowledge": "学习盘：主盘放接受的食物，旁盘放新食物，只观察不要求吃，十余次接触是常态。", "skills": ["edu-behavior", "edu-connect"], "topics": ["喂养", "行为"], "type": "method", "confidence": 0.85}
+{"id": "k08-047", "knowledge": "不用负面词形容食物，用中性词：圆的绿的脆的软的，孩子自己判断。", "skills": ["edu-connect"], "topics": ["喂养", "沟通"], "type": "method", "confidence": 0.85}
+{"id": "k08-048", "knowledge": "练积极倾听从轻度困扰开始——选孩子一点点烦但不炸毛的时刻。", "skills": ["edu-connect"], "topics": ["沟通"], "type": "method", "confidence": 0.85}
+{"id": "k08-049", "knowledge": "帮独立两话术：时间预算翻倍少催催掉的是正在长的能力；做一半留一半套一只袜子另一只他自己。", "skills": ["edu-behavior", "edu-connect"], "topics": ["独立", "沟通"], "type": "method", "confidence": 0.9}
+{"id": "k08-050", "knowledge": "静止脸实验：妈面无表情后婴儿从互动到崩溃，启示不怕偶尔走神，怕断开不修复。", "skills": ["edu-diagnosis"], "topics": ["依恋"], "type": "insight", "confidence": 0.9}
+{"id": "k08-051", "knowledge": "关键互动给15秒完整脸：喂奶前笑一下、换尿布先说一句、垫上反扣屏幕看他。", "skills": ["edu-connect"], "topics": ["依恋"], "type": "method", "confidence": 0.85}
+{"id": "k08-052", "knowledge": "无声抱起触发莫罗反射，先讲我要抱你咯给一秒准备。", "skills": ["edu-connect"], "topics": ["新生儿"], "type": "method", "confidence": 0.85}
+{"id": "k08-053", "knowledge": "阶梯式分离四层：同室不干预→离开30秒-2分→出门10-20分→新环境短离，不跳级真的回来。", "skills": ["edu-behavior"], "topics": ["依恋", "分离"], "type": "method", "confidence": 0.9}
+{"id": "k08-054", "knowledge": "五种常见图式：轨迹、围合、旋转、连接、搬运，认出图式为顺势配材料，不是纠正。", "skills": ["edu-diagnosis"], "topics": ["发展", "游戏"], "type": "principle", "confidence": 0.85}
+{"id": "k08-055", "knowledge": "被同伴持续拒绝，青春期心理问题风险增2-3倍，早期社交排斥是重要预警。", "skills": ["edu-diagnosis"], "topics": ["社交", "心理健康"], "type": "insight", "confidence": 0.9}
+{"id": "k08-056", "knowledge": "ADHD三型：多动冲动型手脚不停抢话、注意缺陷型分心丢三落四做白日梦、混合型，找准难块配策略。", "skills": ["edu-diagnosis"], "topics": ["ADHD", "特殊需要"], "type": "principle", "confidence": 0.9}
+{"id": "k08-057", "knowledge": "女孩ADHD七信号：做白日梦、话多分散、社交焦虑、完美主义拖延、情绪强、未完成系统、经期加重，不惹事不代表不需要帮助。", "skills": ["edu-diagnosis"], "topics": ["ADHD", "特殊需要"], "type": "insight", "confidence": 0.9}
+{"id": "k08-058", "knowledge": "经期雌激素波动影响多巴胺，ADHD女性症状明显加重，懂规律即减自我攻击。", "skills": ["edu-diagnosis"], "topics": ["ADHD", "特殊需要"], "type": "insight", "confidence": 0.85}
+{"id": "k08-059", "knowledge": "中度以上ADHD，药物是研究证实最强干预之一，须专业人员指导并搭配行为管理。", "skills": ["edu-diagnosis"], "topics": ["ADHD", "特殊需要"], "type": "method", "confidence": 0.85}
+{"id": "k08-060", "knowledge": "三种循证干预：ESDM自然游戏融ABA适用于1-4岁、ABA系统拆解正强化、DIR/Floortime随孩子节奏用情绪连接推发展，没有唯一最好。", "skills": ["edu-diagnosis"], "topics": ["自闭症", "特殊需要", "干预"], "type": "method", "confidence": 0.85}
+{"id": "k08-061", "knowledge": "ASQ年龄与发育进程问卷：家长自填覆盖1-66月五个能区，阳性只是建议评估，许多社区卫生中心已引入。", "skills": ["edu-diagnosis"], "topics": ["发展", "评估", "特殊需要"], "type": "tool", "confidence": 0.85}
+{"id": "k08-062", "knowledge": "八种智能日常表现：语言编情节、逻辑数学追为什么、空间画图有纵深、身体动觉精拆装、音乐听几遍会唱、人际调解冲突、内省自知好恶、自然观察盯蚂蚁，不必一根尺子量人。", "skills": ["edu-diagnosis"], "topics": ["资优", "发展"], "type": "principle", "confidence": 0.85}
+{"id": "k08-063", "knowledge": "IEP法律基础是残疾人教育法，核心FAPE：特殊需要孩子有权获量身教育方案，不只等长好要创适配环境。", "skills": ["edu-diagnosis"], "topics": ["特殊需要", "融合", "政策"], "type": "principle", "confidence": 0.9}

@@ -1,7 +1,7 @@
 ---
 name: edu-comment
 description: 写评语——把观察记录翻译成家长/老师看得懂、用得上的学期评语、学习故事式评语、家园联系册一句话，含差异化模板。触发：/edu-comment、/写评语、/学期评语、/成长档案小结
-version: 0.6.0
+version: 0.7.0
 ---
 
 # /edu-comment 写评语

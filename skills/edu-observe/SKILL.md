@@ -1,7 +1,7 @@
 ---
 name: edu-observe
 description: 观察评估模板库——给幼儿园教师可直接抄用的观察记录方法（叙事/时间取样/事件取样/检核表/量表）、发展检核清单、学习故事模板、作品分析表。触发：/edu-observe、/观察记录、/观察模板、/检核表
-version: 0.6.0
+version: 0.7.0
 ---
 
 # /edu-observe 观察评估模板库

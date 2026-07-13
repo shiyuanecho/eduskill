@@ -1,89 +1,89 @@
-{"id":"k04-001","knowledge":"双语家庭孩子同时学两门语言不会搞混，关键看每门是否有充足有来回的真实对话。","skills":["edu-talk"],"topics":["双语方言家庭"],"type":"principle","confidence":"high"}
-{"id":"k04-002","knowledge":"方言是完整语言系统不是说不好的普通话，不会妨碍入学后的普通话学习。","skills":["edu-talk"],"topics":["双语方言家庭"],"type":"principle","confidence":"high"}
-{"id":"k04-003","knowledge":"混说和语码转换是双语儿童正常现象，是能力灵活表现不是分不清。","skills":["edu-talk"],"topics":["双语方言家庭"],"type":"insight","confidence":"high"}
-{"id":"k04-004","knowledge":"教语言抓量：每天每门语言能否和真人大量来回对话，比被动听音视频重要。","skills":["edu-talk"],"topics":["双语方言家庭"],"type":"method","confidence":"high"}
-{"id":"k04-005","knowledge":"让语言有意义而非教学化：生活情境里用带情感动作，回应式对话远胜单向播放。","skills":["edu-talk"],"topics":["双语方言家庭"],"type":"method","confidence":"high"}
-{"id":"k04-006","knowledge":"中外双语家庭至少保证一方持续大量用中文深度交流，别让英语挤占中文土壤。","skills":["edu-talk"],"topics":["双语方言家庭"],"type":"method","confidence":"high"}
-{"id":"k04-007","knowledge":"警惕全面性缺失信号：快一岁半无意识叫人、对名无反应、缺眼神与共同注意。","skills":["edu-diagnosis"],"topics":["双语方言家庭"],"type":"insight","confidence":"high"}
-{"id":"k04-008","knowledge":"家园共育是平等合伙，不是家长当免费助教也不是老师把教学甩给家里。","skills":["edu-communicate"],"topics":["家园共育"],"type":"principle","confidence":"high"}
-{"id":"k04-009","knowledge":"家庭与幼儿园理念行为一致孩子才能内化所学；不一致会看人下菜碟。","skills":["edu-communicate"],"topics":["家园共育"],"type":"principle","confidence":"high"}
-{"id":"k04-010","knowledge":"接送时老师每天一句话点出孩子具体亮点，让家长感到我的孩子被看见了。","skills":["edu-communicate"],"topics":["家园共育"],"type":"method","confidence":"high"}
-{"id":"k04-011","knowledge":"家长接孩子别只问今天乖不乖，改问今天最开心的事和谁一起玩了。","skills":["edu-communicate"],"topics":["家园共育"],"type":"method","confidence":"high"}
-{"id":"k04-012","knowledge":"成长档案记录怎么学的过程而非结果，具体看见过程、不排名。","skills":["edu-archive"],"topics":["家园共育"],"type":"method","confidence":"high"}
-{"id":"k04-013","knowledge":"家庭延伸活动应游戏化不打卡增进关系，一句话说清别发任务单交作品。","skills":["edu-communicate"],"topics":["家园共育"],"type":"method","confidence":"high"}
-{"id":"k04-014","knowledge":"遇分歧沟通：先接住情绪、再说事实、给替代方案，把对抗变合作。","skills":["edu-communicate"],"topics":["家园共育"],"type":"method","confidence":"high"}
-{"id":"k04-015","knowledge":"六岁前最该养的是数感（对数量的直觉）与空间敏感，不靠刷题。","skills":["edu-content"],"topics":["家庭数感"],"type":"principle","confidence":"high"}
-{"id":"k04-016","knowledge":"数感不是背数字串，而是用数去对应真实东西，比背算式不知其意更有价值。","skills":["edu-content"],"topics":["家庭数感"],"type":"insight","confidence":"high"}
-{"id":"k04-017","knowledge":"空间词（上下前后里外左右）要在真实动作里被喂出来，不是上学自然就会。","skills":["edu-content"],"topics":["家庭数感"],"type":"method","confidence":"high"}
-{"id":"k04-018","knowledge":"数感启蒙不等于提前学算术，没建立数感时硬算只是记答案换问法就不会。","skills":["edu-content"],"topics":["家庭数感"],"type":"anti-pattern","confidence":"high"}
-{"id":"k04-019","knowledge":"最贵的数学材料是家长的嘴和日常物品（碗筷水果袜子楼梯），不靠买教具。","skills":["edu-content"],"topics":["家庭数感"],"type":"insight","confidence":"high"}
-{"id":"k04-020","knowledge":"多用开放式问法少用考问式：说你有3块我给你2块现在几块一起数。","skills":["edu-question"],"topics":["家庭数感"],"type":"method","confidence":"high"}
-{"id":"k04-021","knowledge":"反对把刷题默写考试当学前主旋律，但不反对有节制尊重节奏的适龄接触。","skills":["edu-anxiety"],"topics":["家长焦虑"],"type":"principle","confidence":"high"}
-{"id":"k04-022","knowledge":"小学课本按零基础设计正常跟得上；所谓掉队常是被提前学的孩子衬出的错觉。","skills":["edu-anxiety"],"topics":["家长焦虑"],"type":"insight","confidence":"high"}
-{"id":"k04-023","knowledge":"提前学的领先到二三年级常拉平，真正管长远的是坐得住、遇挫会不会再来。","skills":["edu-anxiety"],"topics":["家长焦虑"],"type":"insight","confidence":"high"}
-{"id":"k04-024","knowledge":"游戏就是学习：搭积木练空间推理过家家练语言规则，游戏是0-6岁主要方式。","skills":["edu-play"],"topics":["家长焦虑"],"type":"principle","confidence":"high"}
-{"id":"k04-025","knowledge":"沟通先接住情绪再讲事实，家长慌来自怕落后、同伴攀比、机构营销紧迫感。","skills":["edu-anxiety"],"topics":["家长焦虑"],"type":"method","confidence":"high"}
-{"id":"k04-026","knowledge":"四大准备：身心、生活、社会、学习；把力气花在准备而非提前刷题。","skills":["edu-aim"],"topics":["家长焦虑"],"type":"method","confidence":"high"}
-{"id":"k04-027","knowledge":"幼儿靠真实有来回的互动学习屏幕难替代；要聪明地管不恐慌禁也不放任给。","skills":["edu-routine"],"topics":["屏幕时间"],"type":"principle","confidence":"high"}
-{"id":"k04-028","knowledge":"1岁以下不建议屏；1-2岁不超1小时越少越好；2-5岁每天约1小时高质量共看。","skills":["edu-routine"],"topics":["屏幕时间"],"type":"principle","confidence":"high"}
-{"id":"k04-029","knowledge":"高质量内容：为幼儿设计节奏适中有真实人物能引发互动讨论，避快剪特效。","skills":["edu-routine"],"topics":["屏幕时间"],"type":"method","confidence":"high"}
-{"id":"k04-030","knowledge":"看早教视频不能变聪明被动看屏收益有限，学语言认知比不过真人面对面。","skills":["edu-routine"],"topics":["屏幕时间"],"type":"anti-pattern","confidence":"high"}
-{"id":"k04-031","knowledge":"共同观看：孩子看时你在旁聊小熊在干嘛，把被动输入变互动。","skills":["edu-routine"],"topics":["屏幕时间"],"type":"method","confidence":"high"}
-{"id":"k04-032","knowledge":"对孩子早期发展起作用的不是家里几个人，而是照护稳定回应及时联结可靠。","skills":["edu-communicate"],"topics":["留守流动家庭"],"type":"principle","confidence":"high"}
-{"id":"k04-033","knowledge":"单亲留守孩子肯定有问题不成立，风险可被支持系统稳定关系社区资源缓冲。","skills":["edu-communicate"],"topics":["留守流动家庭"],"type":"anti-pattern","confidence":"high"}
-{"id":"k04-034","knowledge":"流动孩子跟不上本质是环境资源差异不是能力差异，得稳定刺激追赶很快。","skills":["edu-communicate"],"topics":["留守流动家庭"],"type":"insight","confidence":"high"}
-{"id":"k04-035","knowledge":"同情和歧视是一枚硬币两面，真正有用的是平等尊重、赋能而非施舍。","skills":["edu-communicate"],"topics":["留守流动家庭"],"type":"principle","confidence":"high"}
-{"id":"k04-036","knowledge":"祖辈带养不是问题代名词，关键在怎么协同不是谁带。","skills":["edu-communicate"],"topics":["隔代教养"],"type":"principle","confidence":"high"}
-{"id":"k04-037","knowledge":"老人带孩子就带坏不成立，起作用的是照护质量祖孙互动性质家庭支持结构。","skills":["edu-communicate"],"topics":["隔代教养"],"type":"anti-pattern","confidence":"high"}
-{"id":"k04-038","knowledge":"协同话术：把你别喂了改成让孩子自己拿勺您在旁夸，忍住别抢回。","skills":["edu-communicate"],"topics":["隔代教养"],"type":"method","confidence":"high"}
-{"id":"k04-039","knowledge":"划清底线温和坚定：易呛噎食物不给小小孩、电源开水防护、疫苗体检按时。","skills":["edu-communicate"],"topics":["隔代教养"],"type":"method","confidence":"high"}
-{"id":"k04-040","knowledge":"托育是给三岁以下孩子白天照护并嵌入适龄刺激，双重性质：照料加早期刺激。","skills":["edu-explain"],"topics":["托育一体化"],"type":"principle","confidence":"high"}
-{"id":"k04-041","knowledge":"托幼一体化最大好处是孩子在同一熟悉园所、同一批认识他的老师手里连续成长。","skills":["edu-explain"],"topics":["托育一体化"],"type":"insight","confidence":"high"}
-{"id":"k04-042","knowledge":"普惠托育低价来自成本外部化（补贴减租），不是靠削减对孩子的照护质量。","skills":["edu-explain"],"topics":["托育一体化"],"type":"principle","confidence":"high"}
-{"id":"k04-043","knowledge":"判断幼儿园好坏看平时怎么带孩子，重过程重内涵重自评而非重结果重硬件。","skills":["edu-benchmark"],"topics":["保教质量"],"type":"principle","confidence":"high"}
-{"id":"k04-044","knowledge":"教育过程最关键，师幼互动是过程质量最集中的体现。","skills":["edu-benchmark"],"topics":["保教质量"],"type":"principle","confidence":"high"}
-{"id":"k04-045","knowledge":"评估严禁用直接测查幼儿能力发展水平的方式给幼儿园打分。","skills":["edu-benchmark"],"topics":["保教质量"],"type":"principle","confidence":"high"}
-{"id":"k04-046","knowledge":"师幼互动：孩子说话蹲下平视，冲突时先问发生了什么你当时怎么想。","skills":["edu-benchmark"],"topics":["保教质量"],"type":"method","confidence":"high"}
-{"id":"k04-047","knowledge":"具体表扬努力与策略而非泛泛你真棒；孩子遇困退一步让他自己试。","skills":["edu-benchmark"],"topics":["保教质量"],"type":"method","confidence":"high"}
-{"id":"k04-048","knowledge":"普惠是用合理成本提供安全卫生有基本质量的公共服务，不是贵族园也不是凑合园。","skills":["edu-explain"],"topics":["普惠可及"],"type":"principle","confidence":"high"}
-{"id":"k04-049","knowledge":"是否普惠看是否纳入普惠体系、执行指导价、受质量监管，不看公办民办标签。","skills":["edu-explain"],"topics":["普惠可及"],"type":"insight","confidence":"high"}
-{"id":"k04-050","knowledge":"普惠低价来于场地基建外部化运营补贴，不是克扣伙食或压低教师工资。","skills":["edu-explain"],"topics":["普惠可及"],"type":"principle","confidence":"high"}
-{"id":"k04-051","knowledge":"幼儿园教师是专业人士不是谁都能干，需儿童发展观察活动设计三块知识。","skills":["edu-explain"],"topics":["教师专业"],"type":"principle","confidence":"high"}
-{"id":"k04-052","knowledge":"师幼比关键结构指标，普遍把1:15视作适宜低限，孩子越小越需更高比例。","skills":["edu-benchmark"],"topics":["教师专业"],"type":"principle","confidence":"high"}
-{"id":"k04-053","knowledge":"教师把观察练成习惯：每天记三句话——哪行为意外、怎么回应、重来怎么做。","skills":["edu-archive"],"topics":["教师专业"],"type":"method","confidence":"high"}
-{"id":"k04-054","knowledge":"家园共育是教师本职工作应计入正常工作量，不是额外奉献或讨好。","skills":["edu-communicate"],"topics":["教师专业"],"type":"principle","confidence":"high"}
-{"id":"k04-055","knowledge":"早期发展差异首先是环境资源可及性差异，不是孩子天生能力差异。","skills":["edu-explain"],"topics":["留守民族地区"],"type":"principle","confidence":"high"}
-{"id":"k04-056","knowledge":"园内固定一对一对话时间每人三五分钟蹲下聊，是补留守孩子语言刺激关键。","skills":["edu-talk"],"topics":["留守民族地区"],"type":"method","confidence":"high"}
-{"id":"k04-057","knowledge":"民族地区双语入园：学好通用语言不丢母语，母语是思维第一载体保住反利学第二语言。","skills":["edu-talk"],"topics":["民族地区"],"type":"principle","confidence":"high"}
-{"id":"k04-058","knowledge":"通用语言教学可理解化：母语词汇搭桥、图片实物做媒，把普通话一句句译进经验。","skills":["edu-talk"],"topics":["民族地区"],"type":"method","confidence":"high"}
-{"id":"k04-059","knowledge":"以游戏为基本活动是幼儿园课程方式，老师从站前讲转旁看需时帮一把。","skills":["edu-play"],"topics":["小学化"],"type":"principle","confidence":"high"}
-{"id":"k04-060","knowledge":"前识字前书写前运算用生活游戏渗透：指封面字、买卖算找几块、描自己名。","skills":["edu-play"],"topics":["小学化"],"type":"method","confidence":"high"}
-{"id":"k04-061","knowledge":"跟家长沟通为什么不提前教四步：定位国家要求、讲科学、给替代、接上轨。","skills":["edu-communicate"],"topics":["小学化"],"type":"method","confidence":"high"}
-{"id":"k04-062","knowledge":"真正需关注信号通常同时满足：长期、跨场景、明显拖累日常参与；缺一则多为节奏问题。","skills":["edu-diagnosis"],"topics":["特殊需要"],"type":"principle","confidence":"high"}
-{"id":"k04-063","knowledge":"观察记录最有用：记具体行为频率情境，是交给专业人员最准确的素材非诊断。","skills":["edu-diagnosis"],"topics":["特殊需要"],"type":"method","confidence":"high"}
-{"id":"k04-064","knowledge":"早期识别目的不是贴标签，而是哪块需帮忙早点给支持，补能力不是定身份。","skills":["edu-diagnosis"],"topics":["特殊需要"],"type":"principle","confidence":"high"}
-{"id":"k04-065","knowledge":"发展迟缓指某领域能力明显稳定落后于同龄水平，按五能区看具体哪块慢了。","skills":["edu-diagnosis"],"topics":["发展迟缓"],"type":"insight","confidence":"high"}
-{"id":"k04-066","knowledge":"尤其重视能力倒退——原本会的技能又丢了，是特别该尽快评估的信号。","skills":["edu-diagnosis"],"topics":["发展迟缓"],"type":"insight","confidence":"high"}
-{"id":"k04-067","knowledge":"ADHD是大脑调控注意活动冲动与多数孩子不同的工作方式，不是坏懒故意气你。","skills":["edu-diagnosis"],"topics":["ADHD"],"type":"insight","confidence":"high"}
-{"id":"k04-068","knowledge":"区分正常活泼与需关注迹象关键不在动得多，而在是否跨场景长期拖参与。","skills":["edu-diagnosis"],"topics":["ADHD"],"type":"insight","confidence":"high"}
-{"id":"k04-069","knowledge":"学前儿童行为干预（结构化环境正面行为支持）是一线做法，药物并非第一步。","skills":["edu-behavior"],"topics":["ADHD"],"type":"method","confidence":"high"}
-{"id":"k04-070","knowledge":"孤独症早期迹象：很少分享式指物、对名弱反应、眼神偏少、语言出现又退回去。","skills":["edu-diagnosis"],"topics":["孤独症"],"type":"insight","confidence":"medium"}
-{"id":"k04-071","knowledge":"会说话不等于不是谱系，关键在用语连别人能力（一来一回提要求分享）。","skills":["edu-diagnosis"],"topics":["孤独症"],"type":"insight","confidence":"high"}
-{"id":"k04-072","knowledge":"最佳干预期六岁前越早越好，初筛异常不等于确诊，确诊要去有资质机构。","skills":["edu-diagnosis"],"topics":["孤独症"],"type":"insight","confidence":"high"}
-{"id":"k04-073","knowledge":"语言迟缓问题在有没有话懂不懂，构音障碍话有但音发不准，两种完全不同。","skills":["edu-diagnosis"],"topics":["语言迟缓"],"type":"insight","confidence":"high"}
-{"id":"k04-074","knowledge":"贵人语迟无科学依据，会合理化继续等而悄悄错过语言干预窗口。","skills":["edu-diagnosis"],"topics":["语言迟缓"],"type":"anti-pattern","confidence":"high"}
-{"id":"k04-075","knowledge":"两岁仍几乎无有意义词或不会两词连说、叫名常无反应（先排除听力）是预警。","skills":["edu-diagnosis"],"topics":["语言迟缓"],"type":"insight","confidence":"medium"}
-{"id":"k04-076","knowledge":"多数孩子感统在自由游戏和正常生活中自然发展，不需要特意训练。","skills":["edu-diagnosis"],"topics":["感统"],"type":"principle","confidence":"high"}
-{"id":"k04-077","knowledge":"做感统能治百病（治自闭提成绩解多动）属夸大或伪科学，正规研究从未说过。","skills":["edu-diagnosis"],"topics":["感统"],"type":"anti-pattern","confidence":"high"}
-{"id":"k04-078","knowledge":"感统自检三问：说清对谁有用由谁做改善什么？效果限日常参与非治某病？有循证？","skills":["edu-diagnosis"],"topics":["感统"],"type":"tool","confidence":"high"}
-{"id":"k04-079","knowledge":"融合不是隔离也不是放羊，是同一环境里给恰到好处的帮助让他真能参与。","skills":["edu-explain"],"topics":["融合教育"],"type":"principle","confidence":"high"}
-{"id":"k04-080","knowledge":"多数问题行为背后是想说却说不出/受不了这声音/不懂该干啥，先理解再教替代。","skills":["edu-behavior"],"topics":["融合教育"],"type":"insight","confidence":"high"}
-{"id":"k04-081","knowledge":"融合不只帮特殊孩子，普通孩子习得接纳共情是双向滋养，合理调整下照常学。","skills":["edu-explain"],"topics":["融合教育"],"type":"insight","confidence":"high"}
-{"id":"k04-082","knowledge":"IEP为这一个孩子量身定制目标+支持，含现状目标策略负责人复盘，非通用模板。","skills":["edu-report"],"topics":["IEP"],"type":"principle","confidence":"high"}
-{"id":"k04-083","knowledge":"差异化教学同一主题下按孩子准备水平兴趣风格调整教什么怎么教怎么证明。","skills":["edu-explain"],"topics":["差异化教学"],"type":"principle","confidence":"high"}
-{"id":"k04-084","knowledge":"IEP只给特殊孩子是误区，其看清起点定目标给支持复盘思维对任何孩子有用。","skills":["edu-explain"],"topics":["IEP"],"type":"anti-pattern","confidence":"high"}
-{"id":"k04-085","knowledge":"资优是在一或多领域明显超出同龄常态的理解力创造力投入度，需更有针对性拓展。","skills":["edu-diagnosis"],"topics":["资优"],"type":"principle","confidence":"high"}
-{"id":"k04-086","knowledge":"资优三环：高于平均水平能力、创造力、任务承诺三者重合才出现发光状态。","skills":["edu-diagnosis"],"topics":["资优"],"type":"insight","confidence":"high"}
-{"id":"k04-087","knowledge":"拓展给深度不给只是更早更难的重复，感兴趣领域给更深挑战深度比速度更养脑。","skills":["edu-content"],"topics":["资优"],"type":"method","confidence":"high"}
-{"id":"k04-088","knowledge":"听到坐不住不说话不合群时，先帮其区分正常阶段还是长期跨场景影响功能的信号。","skills":["edu-diagnosis"],"topics":["特殊需要"],"type":"method","confidence":"high"}
-{"id":"k04-089","knowledge":"建议评估的措辞是建议寻求专业评估而非你家孩子有XX，诊断用药安置交专业人员。","skills":["edu-diagnosis"],"topics":["特殊需要"],"type":"method","confidence":"high"}
+{"id": "k04-001", "knowledge": "双语家庭孩子同时学两门语言不会搞混，关键看每门是否有充足有来回的真实对话。", "skills": ["edu-talk"], "topics": ["双语方言家庭"], "type": "principle", "confidence": "high"}
+{"id": "k04-002", "knowledge": "方言是完整语言系统不是说不好的普通话，不会妨碍入学后的普通话学习。", "skills": ["edu-talk"], "topics": ["双语方言家庭"], "type": "principle", "confidence": "high"}
+{"id": "k04-003", "knowledge": "混说和语码转换是双语儿童正常现象，是能力灵活表现不是分不清。", "skills": ["edu-talk"], "topics": ["双语方言家庭"], "type": "insight", "confidence": "high"}
+{"id": "k04-004", "knowledge": "教语言抓量：每天每门语言能否和真人大量来回对话，比被动听音视频重要。", "skills": ["edu-talk"], "topics": ["双语方言家庭"], "type": "method", "confidence": "high"}
+{"id": "k04-005", "knowledge": "让语言有意义而非教学化：生活情境里用带情感动作，回应式对话远胜单向播放。", "skills": ["edu-talk"], "topics": ["双语方言家庭"], "type": "method", "confidence": "high"}
+{"id": "k04-006", "knowledge": "中外双语家庭至少保证一方持续大量用中文深度交流，别让英语挤占中文土壤。", "skills": ["edu-talk"], "topics": ["双语方言家庭"], "type": "method", "confidence": "high"}
+{"id": "k04-007", "knowledge": "警惕全面性缺失信号：快一岁半无意识叫人、对名无反应、缺眼神与共同注意。", "skills": ["edu-diagnosis"], "topics": ["双语方言家庭"], "type": "insight", "confidence": "high"}
+{"id": "k04-008", "knowledge": "家园共育是平等合伙，不是家长当免费助教也不是老师把教学甩给家里。", "skills": ["edu-connect"], "topics": ["家园共育"], "type": "principle", "confidence": "high"}
+{"id": "k04-009", "knowledge": "家庭与幼儿园理念行为一致孩子才能内化所学；不一致会看人下菜碟。", "skills": ["edu-connect"], "topics": ["家园共育"], "type": "principle", "confidence": "high"}
+{"id": "k04-010", "knowledge": "接送时老师每天一句话点出孩子具体亮点，让家长感到我的孩子被看见了。", "skills": ["edu-connect"], "topics": ["家园共育"], "type": "method", "confidence": "high"}
+{"id": "k04-011", "knowledge": "家长接孩子别只问今天乖不乖，改问今天最开心的事和谁一起玩了。", "skills": ["edu-connect"], "topics": ["家园共育"], "type": "method", "confidence": "high"}
+{"id": "k04-012", "knowledge": "成长档案记录怎么学的过程而非结果，具体看见过程、不排名。", "skills": ["edu-archive"], "topics": ["家园共育"], "type": "method", "confidence": "high"}
+{"id": "k04-013", "knowledge": "家庭延伸活动应游戏化不打卡增进关系，一句话说清别发任务单交作品。", "skills": ["edu-connect"], "topics": ["家园共育"], "type": "method", "confidence": "high"}
+{"id": "k04-014", "knowledge": "遇分歧沟通：先接住情绪、再说事实、给替代方案，把对抗变合作。", "skills": ["edu-connect"], "topics": ["家园共育"], "type": "method", "confidence": "high"}
+{"id": "k04-015", "knowledge": "六岁前最该养的是数感（对数量的直觉）与空间敏感，不靠刷题。", "skills": ["edu-content"], "topics": ["家庭数感"], "type": "principle", "confidence": "high"}
+{"id": "k04-016", "knowledge": "数感不是背数字串，而是用数去对应真实东西，比背算式不知其意更有价值。", "skills": ["edu-content"], "topics": ["家庭数感"], "type": "insight", "confidence": "high"}
+{"id": "k04-017", "knowledge": "空间词（上下前后里外左右）要在真实动作里被喂出来，不是上学自然就会。", "skills": ["edu-content"], "topics": ["家庭数感"], "type": "method", "confidence": "high"}
+{"id": "k04-018", "knowledge": "数感启蒙不等于提前学算术，没建立数感时硬算只是记答案换问法就不会。", "skills": ["edu-content"], "topics": ["家庭数感"], "type": "anti-pattern", "confidence": "high"}
+{"id": "k04-019", "knowledge": "最贵的数学材料是家长的嘴和日常物品（碗筷水果袜子楼梯），不靠买教具。", "skills": ["edu-content"], "topics": ["家庭数感"], "type": "insight", "confidence": "high"}
+{"id": "k04-020", "knowledge": "多用开放式问法少用考问式：说你有3块我给你2块现在几块一起数。", "skills": ["edu-lesson"], "topics": ["家庭数感"], "type": "method", "confidence": "high"}
+{"id": "k04-021", "knowledge": "反对把刷题默写考试当学前主旋律，但不反对有节制尊重节奏的适龄接触。", "skills": ["edu-anxiety"], "topics": ["家长焦虑"], "type": "principle", "confidence": "high"}
+{"id": "k04-022", "knowledge": "小学课本按零基础设计正常跟得上；所谓掉队常是被提前学的孩子衬出的错觉。", "skills": ["edu-anxiety"], "topics": ["家长焦虑"], "type": "insight", "confidence": "high"}
+{"id": "k04-023", "knowledge": "提前学的领先到二三年级常拉平，真正管长远的是坐得住、遇挫会不会再来。", "skills": ["edu-anxiety"], "topics": ["家长焦虑"], "type": "insight", "confidence": "high"}
+{"id": "k04-024", "knowledge": "游戏就是学习：搭积木练空间推理过家家练语言规则，游戏是0-6岁主要方式。", "skills": ["edu-lesson"], "topics": ["家长焦虑"], "type": "principle", "confidence": "high"}
+{"id": "k04-025", "knowledge": "沟通先接住情绪再讲事实，家长慌来自怕落后、同伴攀比、机构营销紧迫感。", "skills": ["edu-anxiety"], "topics": ["家长焦虑"], "type": "method", "confidence": "high"}
+{"id": "k04-026", "knowledge": "四大准备：身心、生活、社会、学习；把力气花在准备而非提前刷题。", "skills": ["edu-aim"], "topics": ["家长焦虑"], "type": "method", "confidence": "high"}
+{"id": "k04-027", "knowledge": "幼儿靠真实有来回的互动学习屏幕难替代；要聪明地管不恐慌禁也不放任给。", "skills": ["edu-family"], "topics": ["屏幕时间"], "type": "principle", "confidence": "high"}
+{"id": "k04-028", "knowledge": "1岁以下不建议屏；1-2岁不超1小时越少越好；2-5岁每天约1小时高质量共看。", "skills": ["edu-family"], "topics": ["屏幕时间"], "type": "principle", "confidence": "high"}
+{"id": "k04-029", "knowledge": "高质量内容：为幼儿设计节奏适中有真实人物能引发互动讨论，避快剪特效。", "skills": ["edu-family"], "topics": ["屏幕时间"], "type": "method", "confidence": "high"}
+{"id": "k04-030", "knowledge": "看早教视频不能变聪明被动看屏收益有限，学语言认知比不过真人面对面。", "skills": ["edu-family"], "topics": ["屏幕时间"], "type": "anti-pattern", "confidence": "high"}
+{"id": "k04-031", "knowledge": "共同观看：孩子看时你在旁聊小熊在干嘛，把被动输入变互动。", "skills": ["edu-family"], "topics": ["屏幕时间"], "type": "method", "confidence": "high"}
+{"id": "k04-032", "knowledge": "对孩子早期发展起作用的不是家里几个人，而是照护稳定回应及时联结可靠。", "skills": ["edu-connect"], "topics": ["留守流动家庭"], "type": "principle", "confidence": "high"}
+{"id": "k04-033", "knowledge": "单亲留守孩子肯定有问题不成立，风险可被支持系统稳定关系社区资源缓冲。", "skills": ["edu-connect"], "topics": ["留守流动家庭"], "type": "anti-pattern", "confidence": "high"}
+{"id": "k04-034", "knowledge": "流动孩子跟不上本质是环境资源差异不是能力差异，得稳定刺激追赶很快。", "skills": ["edu-connect"], "topics": ["留守流动家庭"], "type": "insight", "confidence": "high"}
+{"id": "k04-035", "knowledge": "同情和歧视是一枚硬币两面，真正有用的是平等尊重、赋能而非施舍。", "skills": ["edu-connect"], "topics": ["留守流动家庭"], "type": "principle", "confidence": "high"}
+{"id": "k04-036", "knowledge": "祖辈带养不是问题代名词，关键在怎么协同不是谁带。", "skills": ["edu-connect"], "topics": ["隔代教养"], "type": "principle", "confidence": "high"}
+{"id": "k04-037", "knowledge": "老人带孩子就带坏不成立，起作用的是照护质量祖孙互动性质家庭支持结构。", "skills": ["edu-connect"], "topics": ["隔代教养"], "type": "anti-pattern", "confidence": "high"}
+{"id": "k04-038", "knowledge": "协同话术：把你别喂了改成让孩子自己拿勺您在旁夸，忍住别抢回。", "skills": ["edu-connect"], "topics": ["隔代教养"], "type": "method", "confidence": "high"}
+{"id": "k04-039", "knowledge": "划清底线温和坚定：易呛噎食物不给小小孩、电源开水防护、疫苗体检按时。", "skills": ["edu-connect"], "topics": ["隔代教养"], "type": "method", "confidence": "high"}
+{"id": "k04-040", "knowledge": "托育是给三岁以下孩子白天照护并嵌入适龄刺激，双重性质：照料加早期刺激。", "skills": ["edu-lesson"], "topics": ["托育一体化"], "type": "principle", "confidence": "high"}
+{"id": "k04-041", "knowledge": "托幼一体化最大好处是孩子在同一熟悉园所、同一批认识他的老师手里连续成长。", "skills": ["edu-lesson"], "topics": ["托育一体化"], "type": "insight", "confidence": "high"}
+{"id": "k04-042", "knowledge": "普惠托育低价来自成本外部化（补贴减租），不是靠削减对孩子的照护质量。", "skills": ["edu-lesson"], "topics": ["托育一体化"], "type": "principle", "confidence": "high"}
+{"id": "k04-043", "knowledge": "判断幼儿园好坏看平时怎么带孩子，重过程重内涵重自评而非重结果重硬件。", "skills": ["edu-benchmark"], "topics": ["保教质量"], "type": "principle", "confidence": "high"}
+{"id": "k04-044", "knowledge": "教育过程最关键，师幼互动是过程质量最集中的体现。", "skills": ["edu-benchmark"], "topics": ["保教质量"], "type": "principle", "confidence": "high"}
+{"id": "k04-045", "knowledge": "评估严禁用直接测查幼儿能力发展水平的方式给幼儿园打分。", "skills": ["edu-benchmark"], "topics": ["保教质量"], "type": "principle", "confidence": "high"}
+{"id": "k04-046", "knowledge": "师幼互动：孩子说话蹲下平视，冲突时先问发生了什么你当时怎么想。", "skills": ["edu-benchmark"], "topics": ["保教质量"], "type": "method", "confidence": "high"}
+{"id": "k04-047", "knowledge": "具体表扬努力与策略而非泛泛你真棒；孩子遇困退一步让他自己试。", "skills": ["edu-benchmark"], "topics": ["保教质量"], "type": "method", "confidence": "high"}
+{"id": "k04-048", "knowledge": "普惠是用合理成本提供安全卫生有基本质量的公共服务，不是贵族园也不是凑合园。", "skills": ["edu-lesson"], "topics": ["普惠可及"], "type": "principle", "confidence": "high"}
+{"id": "k04-049", "knowledge": "是否普惠看是否纳入普惠体系、执行指导价、受质量监管，不看公办民办标签。", "skills": ["edu-lesson"], "topics": ["普惠可及"], "type": "insight", "confidence": "high"}
+{"id": "k04-050", "knowledge": "普惠低价来于场地基建外部化运营补贴，不是克扣伙食或压低教师工资。", "skills": ["edu-lesson"], "topics": ["普惠可及"], "type": "principle", "confidence": "high"}
+{"id": "k04-051", "knowledge": "幼儿园教师是专业人士不是谁都能干，需儿童发展观察活动设计三块知识。", "skills": ["edu-lesson"], "topics": ["教师专业"], "type": "principle", "confidence": "high"}
+{"id": "k04-052", "knowledge": "师幼比关键结构指标，普遍把1:15视作适宜低限，孩子越小越需更高比例。", "skills": ["edu-benchmark"], "topics": ["教师专业"], "type": "principle", "confidence": "high"}
+{"id": "k04-053", "knowledge": "教师把观察练成习惯：每天记三句话——哪行为意外、怎么回应、重来怎么做。", "skills": ["edu-archive"], "topics": ["教师专业"], "type": "method", "confidence": "high"}
+{"id": "k04-054", "knowledge": "家园共育是教师本职工作应计入正常工作量，不是额外奉献或讨好。", "skills": ["edu-connect"], "topics": ["教师专业"], "type": "principle", "confidence": "high"}
+{"id": "k04-055", "knowledge": "早期发展差异首先是环境资源可及性差异，不是孩子天生能力差异。", "skills": ["edu-lesson"], "topics": ["留守民族地区"], "type": "principle", "confidence": "high"}
+{"id": "k04-056", "knowledge": "园内固定一对一对话时间每人三五分钟蹲下聊，是补留守孩子语言刺激关键。", "skills": ["edu-talk"], "topics": ["留守民族地区"], "type": "method", "confidence": "high"}
+{"id": "k04-057", "knowledge": "民族地区双语入园：学好通用语言不丢母语，母语是思维第一载体保住反利学第二语言。", "skills": ["edu-talk"], "topics": ["民族地区"], "type": "principle", "confidence": "high"}
+{"id": "k04-058", "knowledge": "通用语言教学可理解化：母语词汇搭桥、图片实物做媒，把普通话一句句译进经验。", "skills": ["edu-talk"], "topics": ["民族地区"], "type": "method", "confidence": "high"}
+{"id": "k04-059", "knowledge": "以游戏为基本活动是幼儿园课程方式，老师从站前讲转旁看需时帮一把。", "skills": ["edu-lesson"], "topics": ["小学化"], "type": "principle", "confidence": "high"}
+{"id": "k04-060", "knowledge": "前识字前书写前运算用生活游戏渗透：指封面字、买卖算找几块、描自己名。", "skills": ["edu-lesson"], "topics": ["小学化"], "type": "method", "confidence": "high"}
+{"id": "k04-061", "knowledge": "跟家长沟通为什么不提前教四步：定位国家要求、讲科学、给替代、接上轨。", "skills": ["edu-connect"], "topics": ["小学化"], "type": "method", "confidence": "high"}
+{"id": "k04-062", "knowledge": "真正需关注信号通常同时满足：长期、跨场景、明显拖累日常参与；缺一则多为节奏问题。", "skills": ["edu-diagnosis"], "topics": ["特殊需要"], "type": "principle", "confidence": "high"}
+{"id": "k04-063", "knowledge": "观察记录最有用：记具体行为频率情境，是交给专业人员最准确的素材非诊断。", "skills": ["edu-diagnosis"], "topics": ["特殊需要"], "type": "method", "confidence": "high"}
+{"id": "k04-064", "knowledge": "早期识别目的不是贴标签，而是哪块需帮忙早点给支持，补能力不是定身份。", "skills": ["edu-diagnosis"], "topics": ["特殊需要"], "type": "principle", "confidence": "high"}
+{"id": "k04-065", "knowledge": "发展迟缓指某领域能力明显稳定落后于同龄水平，按五能区看具体哪块慢了。", "skills": ["edu-diagnosis"], "topics": ["发展迟缓"], "type": "insight", "confidence": "high"}
+{"id": "k04-066", "knowledge": "尤其重视能力倒退——原本会的技能又丢了，是特别该尽快评估的信号。", "skills": ["edu-diagnosis"], "topics": ["发展迟缓"], "type": "insight", "confidence": "high"}
+{"id": "k04-067", "knowledge": "ADHD是大脑调控注意活动冲动与多数孩子不同的工作方式，不是坏懒故意气你。", "skills": ["edu-diagnosis"], "topics": ["ADHD"], "type": "insight", "confidence": "high"}
+{"id": "k04-068", "knowledge": "区分正常活泼与需关注迹象关键不在动得多，而在是否跨场景长期拖参与。", "skills": ["edu-diagnosis"], "topics": ["ADHD"], "type": "insight", "confidence": "high"}
+{"id": "k04-069", "knowledge": "学前儿童行为干预（结构化环境正面行为支持）是一线做法，药物并非第一步。", "skills": ["edu-behavior"], "topics": ["ADHD"], "type": "method", "confidence": "high"}
+{"id": "k04-070", "knowledge": "孤独症早期迹象：很少分享式指物、对名弱反应、眼神偏少、语言出现又退回去。", "skills": ["edu-diagnosis"], "topics": ["孤独症"], "type": "insight", "confidence": "medium"}
+{"id": "k04-071", "knowledge": "会说话不等于不是谱系，关键在用语连别人能力（一来一回提要求分享）。", "skills": ["edu-diagnosis"], "topics": ["孤独症"], "type": "insight", "confidence": "high"}
+{"id": "k04-072", "knowledge": "最佳干预期六岁前越早越好，初筛异常不等于确诊，确诊要去有资质机构。", "skills": ["edu-diagnosis"], "topics": ["孤独症"], "type": "insight", "confidence": "high"}
+{"id": "k04-073", "knowledge": "语言迟缓问题在有没有话懂不懂，构音障碍话有但音发不准，两种完全不同。", "skills": ["edu-diagnosis"], "topics": ["语言迟缓"], "type": "insight", "confidence": "high"}
+{"id": "k04-074", "knowledge": "贵人语迟无科学依据，会合理化继续等而悄悄错过语言干预窗口。", "skills": ["edu-diagnosis"], "topics": ["语言迟缓"], "type": "anti-pattern", "confidence": "high"}
+{"id": "k04-075", "knowledge": "两岁仍几乎无有意义词或不会两词连说、叫名常无反应（先排除听力）是预警。", "skills": ["edu-diagnosis"], "topics": ["语言迟缓"], "type": "insight", "confidence": "medium"}
+{"id": "k04-076", "knowledge": "多数孩子感统在自由游戏和正常生活中自然发展，不需要特意训练。", "skills": ["edu-diagnosis"], "topics": ["感统"], "type": "principle", "confidence": "high"}
+{"id": "k04-077", "knowledge": "做感统能治百病（治自闭提成绩解多动）属夸大或伪科学，正规研究从未说过。", "skills": ["edu-diagnosis"], "topics": ["感统"], "type": "anti-pattern", "confidence": "high"}
+{"id": "k04-078", "knowledge": "感统自检三问：说清对谁有用由谁做改善什么？效果限日常参与非治某病？有循证？", "skills": ["edu-diagnosis"], "topics": ["感统"], "type": "tool", "confidence": "high"}
+{"id": "k04-079", "knowledge": "融合不是隔离也不是放羊，是同一环境里给恰到好处的帮助让他真能参与。", "skills": ["edu-lesson"], "topics": ["融合教育"], "type": "principle", "confidence": "high"}
+{"id": "k04-080", "knowledge": "多数问题行为背后是想说却说不出/受不了这声音/不懂该干啥，先理解再教替代。", "skills": ["edu-behavior"], "topics": ["融合教育"], "type": "insight", "confidence": "high"}
+{"id": "k04-081", "knowledge": "融合不只帮特殊孩子，普通孩子习得接纳共情是双向滋养，合理调整下照常学。", "skills": ["edu-lesson"], "topics": ["融合教育"], "type": "insight", "confidence": "high"}
+{"id": "k04-082", "knowledge": "IEP为这一个孩子量身定制目标+支持，含现状目标策略负责人复盘，非通用模板。", "skills": ["edu-report"], "topics": ["IEP"], "type": "principle", "confidence": "high"}
+{"id": "k04-083", "knowledge": "差异化教学同一主题下按孩子准备水平兴趣风格调整教什么怎么教怎么证明。", "skills": ["edu-lesson"], "topics": ["差异化教学"], "type": "principle", "confidence": "high"}
+{"id": "k04-084", "knowledge": "IEP只给特殊孩子是误区，其看清起点定目标给支持复盘思维对任何孩子有用。", "skills": ["edu-lesson"], "topics": ["IEP"], "type": "anti-pattern", "confidence": "high"}
+{"id": "k04-085", "knowledge": "资优是在一或多领域明显超出同龄常态的理解力创造力投入度，需更有针对性拓展。", "skills": ["edu-diagnosis"], "topics": ["资优"], "type": "principle", "confidence": "high"}
+{"id": "k04-086", "knowledge": "资优三环：高于平均水平能力、创造力、任务承诺三者重合才出现发光状态。", "skills": ["edu-diagnosis"], "topics": ["资优"], "type": "insight", "confidence": "high"}
+{"id": "k04-087", "knowledge": "拓展给深度不给只是更早更难的重复，感兴趣领域给更深挑战深度比速度更养脑。", "skills": ["edu-content"], "topics": ["资优"], "type": "method", "confidence": "high"}
+{"id": "k04-088", "knowledge": "听到坐不住不说话不合群时，先帮其区分正常阶段还是长期跨场景影响功能的信号。", "skills": ["edu-diagnosis"], "topics": ["特殊需要"], "type": "method", "confidence": "high"}
+{"id": "k04-089", "knowledge": "建议评估的措辞是建议寻求专业评估而非你家孩子有XX，诊断用药安置交专业人员。", "skills": ["edu-diagnosis"], "topics": ["特殊需要"], "type": "method", "confidence": "high"}

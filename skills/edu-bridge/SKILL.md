@@ -5,6 +5,7 @@ description: |
   触发方式：/edu-bridge、/bridge、「桥接这个 skill」「桥接整个 skills 目录」「让多个 Agent 都能调用」「取消桥接」「查看桥接状态」
   Bridge any skill folder or directory of skill folders to Claude Code, Codex, generic Agents (~/.agents/skills), and Grok using symlinks plus Grok bridge files. Supports eduskill skills and external skill directories.
   Trigger: /edu-bridge, /bridge, "bridge this skill", "bridge this skills directory", "unlink", "check bridge status"
+version: 0.7.0
 ---
 
 # edu-bridge：多端 skill 桥接
@@ -73,7 +74,7 @@ skills/edu-bridge/scripts/bridge-skill.sh link <skill-name-or-path>
 
 ```bash
 skills/edu-bridge/scripts/bridge-skill.sh link edu-lesson
-skills/edu-bridge/scripts/bridge-skill.sh link skills/edu-play
+skills/edu-bridge/scripts/bridge-skill.sh link skills/edu-talk
 skills/edu-bridge/scripts/bridge-skill.sh link skills
 skills/edu-bridge/scripts/bridge-skill.sh link "/absolute/path/to/skill"
 skills/edu-bridge/scripts/bridge-skill.sh link "/Users/me/external-skills/my-skill"

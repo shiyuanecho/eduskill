@@ -1,7 +1,7 @@
 ---
 name: edu-benchmark
 description: 对标——诊断一个家庭/机构的启蒙/教学/成长体系完整度（覆盖哪些发展维度、缺口在哪），产出差距地图。专业向，非营销。
-version: 0.1.0
+version: 0.7.0
 ---
 
 # /edu-benchmark 对标

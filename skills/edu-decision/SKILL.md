@@ -1,7 +1,7 @@
 ---
 name: edu-decision
 description: 选课决策——帮家长在课程/教具/机构间做不后悔的选择，摊开前提与利弊，不做指令。专业向。
-version: 0.1.0
+version: 0.7.0
 ---
 
 # /edu-decision 选课决策

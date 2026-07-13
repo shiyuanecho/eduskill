@@ -2,7 +2,7 @@
 name: edu
 slug: eduskill
 displayName: 拾元·儿童成长工具箱
-description: 0-9 岁儿童成长与启蒙专业工具箱（主入口，23 个 Skill）。三种模式：新手教程、任务前路由、任务后导航。覆盖诊断/方案/家庭管理/家校协作/教师成长/0-3养育/陪学方法/发展科学。教师和家长视角都覆盖，给方法也讲原理。第一次用可说「新手入门」。
+description: 0-9 岁儿童成长与启蒙专业工具箱（主入口，23 个 Skill）。三种模式：新手教程、任务前路由、任务后导航。覆盖诊断、方案、决策、记录、工具五大层。教师和家长视角都覆盖，给方法也讲原理。第一次用可说「新手入门」。
 version: 0.7.0
 category: early-education
 platforms:
@@ -28,7 +28,7 @@ tags:
 
 **你负责识别模式、选择子技能、组织衔接。具体观察、诊断与做法由被路由的子技能执行。**
 
-范围：学龄前到小学低年级（约 3-9 岁）儿童的学习、玩耍、行为情绪、习惯、选课与成长记录。家长视角和老师视角都覆盖。
+范围：0-9 岁儿童的学习、玩耍、行为情绪、习惯、选课与成长记录。家长视角和老师视角都覆盖。
 
 ---
 
@@ -265,7 +265,7 @@ tags:
 
 ## 知识底座（knowledge/）
 
-本工具箱带一份领域知识底座，基于专业早期教育资料整理。涉及具体发展领域知识时，**先读对应文件再作答，不要凭空编**。
+本工具箱带一份结构化领域知识底座。涉及具体发展领域知识时，**先读对应文件再作答，不要凭空编**。
 
 **两层知识：**
 - **知识包 `knowledge/skill-packages/`**：30 篇方法型知识包（理论、发展顺序、各领域实操、选课避坑、机构甄别、深度综述，含覆盖补全），给助手自己看的知识底稿。
@@ -276,24 +276,24 @@ tags:
 |---|---|---|
 | knowledge/skill-packages/01-理论基础.md | 依恋、游戏价值、皮亚杰/维果茨基、注意记忆、心理理论 | edu-diagnosis、edu-content |
 | knowledge/skill-packages/02-学习品质.md | 内在动机、好奇心、执行功能、成长型思维、抗挫 | edu-diagnosis、edu-aim |
-| knowledge/skill-packages/03-语言发展.md | 口语发展、高质量输入、对话式阅读、汉字认知边界、入学语言准备 | edu-diagnosisedu-talk |
-| knowledge/skill-packages/04-数学启蒙.md | 数感、早期算术、数学焦虑预防、空间几何、游戏化评估 | edu-diagnosisedu-content |
+| knowledge/skill-packages/03-语言发展.md | 口语发展、高质量输入、对话式阅读、汉字认知边界、入学语言准备 | edu-diagnosis、edu-talk |
+| knowledge/skill-packages/04-数学启蒙.md | 数感、早期算术、数学焦虑预防、空间几何、游戏化评估 | edu-diagnosis、edu-content |
 | knowledge/skill-packages/05-社会情绪SEL.md | 情绪识别表达、情绪安全环境、常见情绪行为问题、冲突解决 | edu-behavior |
-| knowledge/skill-packages/06-身体发展.md | 大运动精细动作、屏幕久坐、营养睡眠视力 | edu-diagnosisedu-benchmark |
+| knowledge/skill-packages/06-身体发展.md | 大运动精细动作、屏幕久坐、营养睡眠视力 | edu-diagnosis、edu-benchmark |
 | knowledge/skill-packages/07-创造力艺术.md | 假装游戏、绘画阶段、自然教育、音乐启蒙 | edu-content |
 | knowledge/skill-packages/08-幼小衔接.md | 四大准备、家庭科学衔接、衔接质量观察 | edu-benchmark、edu-aim、edu-decision、edu-anxiety |
 | knowledge/skill-packages/09-质量与国际.md | 高质量环境维度、各国共性、西方结论本土边界、证据可迁移 | edu-benchmark、edu-content |
 | knowledge/skill-packages/10-家庭共育.md | 双语方言、家园共育、家庭数感空间、家长焦虑抢跑、屏幕、多样家庭 | edu-anxiety、edu-aim |
 | knowledge/skill-packages/11-生态政策教师.md | 托育一体化、保教质量评估、普惠、教师发展、留守民族地区支持 | edu-benchmark |
 | knowledge/skill-packages/12-特殊需要融合.md | ADHD/孤独症/迟缓早期迹象、感统伪科学、融合与IEP、资优 | edu-diagnosis、edu-behavior |
-| knowledge/skill-packages/13-教师实操.md | 一日生活渗透、低结构材料、学习故事、小组指导、师幼对话、数学区角、项目课程 | edu-talkedu-report、edu-archive |
+| knowledge/skill-packages/13-教师实操.md | 一日生活渗透、低结构材料、学习故事、小组指导、师幼对话、数学区角、项目课程 | edu-talk、edu-report、edu-archive |
 | knowledge/skill-packages/14-研究方法与本土.md | 怎么读懂研究、西方结论边界、本土一般结论 | edu-content、edu-anxiety、edu-benchmark |
 | knowledge/skill-packages/15-Mini实操话术.md | 亲子互动游戏、行为解码、认知真相、陪学话术 | edu-talk、edu-behavior |
 | knowledge/skill-packages/16-Base概念怎么讲.md | 怎么给孩子讲概念（科学/社会/品质），大量具体讲法示例 |  |
 | knowledge/skill-packages/17-Base陪学怎么教.md | 怎么教具体学习技能（语言/阅读/数学/科学），通用教法 | edu-talk |
-| knowledge/skill-packages/18-Base养育场景.md | 进食/睡眠/安全感/气质/习惯/行为/sibling/早晨流程等场景应对 | edu-behavioredu-aim |
-| knowledge/skill-packages/19-Max深度综述.md | 发展里程碑年龄表、习惯回路、情绪调节步骤、屏幕/睡眠/营养/运动数值、教养方式 | edu-diagnosis、edu-behavioredu-benchmark |
-| knowledge/skill-packages/20-养育实操补.md | 辅食喂养、安全睡眠、小睡节奏、如厕训练、口腔出牙等养育实操细节（第一轮覆盖补全） | edu-behavioredu-aim |
+| knowledge/skill-packages/18-Base养育场景.md | 进食/睡眠/安全感/气质/习惯/行为/sibling/早晨流程等场景应对 | edu-behavior、edu-aim |
+| knowledge/skill-packages/19-Max深度综述.md | 发展里程碑年龄表、习惯回路、情绪调节步骤、屏幕/睡眠/营养/运动数值、教养方式 | edu-diagnosis、edu-behavior、edu-benchmark |
+| knowledge/skill-packages/20-养育实操补.md | 辅食喂养、安全睡眠、小睡节奏、如厕训练、口腔出牙等养育实操细节（第一轮覆盖补全） | edu-behavior、edu-aim |
 | knowledge/skill-packages/21-发展行为补.md | 发展里程碑窗口、异常信号识别、情绪行为管理话术、特殊需要融合（第一轮覆盖补全） | edu-diagnosis、edu-behavior |
 | knowledge/skill-packages/22-教法认知补.md | 教法框架、STEM概念讲法、学习品质、认知发展补充细节（第一轮覆盖补全） | edu-talk |
 | knowledge/skill-packages/23-理论政策补.md | 学术理论补充、政策标准数据、其他散点补全（第一轮覆盖补全） | edu-benchmark、edu-content、edu-aim |
@@ -311,43 +311,37 @@ tags:
 
 ## 子技能清单（23 个）
 
-**诊断层**
+**诊断层（9 个）**
 - `/edu-diagnosis` 学力诊断
 - `/edu-behavior` 行为情绪诊断
 - `/edu-content` 内容诊断
 - `/edu-anxiety` 焦虑诊断
 - `/edu-aim` 目标理清
 - `/edu-benchmark` 体系对标
+- `/edu-observe` 观察评估模板库
+- `/edu-ages` 分龄发展养育指南
+- `/edu-grow` 发展科学与脑科学：行为背后的原理——发展理论/脑科学/学习科学
 
-**方案层**
+**方案层（10 个）**
 - `/edu-lesson` 教案与活动设计：备课/活动方案/概念讲法/提问设计/教具/环境
-- `/edu-classroom` 班级与课堂管理：安全应急/常规建立/差异化分层/不同特质儿童引导
 - `/edu-talk` 亲子沟通与情绪引导：怎么说孩子才愿意听、情绪管理、安全感建设
-
-**家庭层**
+- `/edu-classroom` 班级与课堂管理：安全应急/常规建立/差异化分层/不同特质儿童引导
 - `/edu-family` 家庭日常管理：作息/屏幕/假期/磨蹭/任务执行/家庭规则/陪伴质量/兴趣班/阅读规划
 - `/edu-connect` 家园协作与衔接：选园选校/幼小衔接/父亲参与/隔代教养/家园沟通/家长会
+- `/edu-comment` 写评语
+- `/edu-teachdev` 教师专业成长：教研/反思写作/教师培训/家长讲座
+- `/edu-tutor` 家庭陪学方法：自然拼读/数学教法/书写/认知启蒙
+- `/edu-inclusive` 融合教育与特殊需要支持：教师融合实施 + 家长特殊需要指导
+- `/edu-infant` 0-3 岁家庭养育实务：新生儿/睡眠/喂养/大运动/口腔与如厕/预警速查
 
-**记录层**
+**决策层（1 个）**
 - `/edu-decision` 选课决策
+
+**记录层（2 个）**
 - `/edu-report` 进展记录
 - `/edu-archive` 成长档案
 
-**教师层**
-- `/edu-teachdev` 教师专业成长：教研/反思写作/教师培训/家长讲座
-- `/edu-ages` 分龄发展养育指南
-- `/edu-observe` 观察评估模板库
-- `/edu-comment` 写评语
-
-**特殊支持**
-- `/edu-inclusive` 融合教育与特殊需要支持：教师融合实施 + 家长特殊需要指导
-
-**新增覆盖**
-- `/edu-infant` 0-3 岁家庭养育实务：新生儿/睡眠/喂养/大运动/口腔与如厕/预警速查
-- `/edu-tutor` 家庭陪学方法：自然拼读/数学教法/书写/认知启蒙
-- `/edu-grow` 发展科学与脑科学：行为背后的原理——发展理论/脑科学/学习科学
-
-**系统工具**
+**工具层（1 个）**
 - `/edu-bridge` 多端桥接
 
 ---
@@ -362,7 +356,7 @@ tags:
 
 本工具箱按「壳 / 料 / 分发」三层组织，方便维护和复刻：
 
-- **壳层（skills/）**：23 个子技能，每个一个 `SKILL.md`，是用户直接调用的能力面。覆盖诊断、方案、家庭管理、家校协作、教师成长、0-3养育、陪学方法和发展科学。
+- **壳层（skills/）**：23 个子技能，每个一个 `SKILL.md`，是用户直接调用的能力面。按诊断、方案、决策、记录、工具五大层组织。
 - **料层（knowledge/）**：知识底座。`skill-packages/` 给方法，`atoms/` 给可检索的细颗粒知识，`glossary.md` 给高频概念索引。
 - **分发层**：`tools/build-skills.sh`（打包成 `.skill` / zip）、`.claude-plugin/marketplace.json`（Claude Code 等多端插件清单）、`.github/workflows/release.yml`（打 `v*` 标签自动发 GitHub Release）、`VERSION`（版本号）、`LICENSE`（CC BY-NC 4.0）、`README.md`（结构与安装说明）、`docs/新手入门.md`（用户手册）。
 

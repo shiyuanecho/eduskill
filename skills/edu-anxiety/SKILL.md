@@ -1,7 +1,7 @@
 ---
 name: edu-anxiety
 description: 焦虑诊断——判断家长某条教育焦虑是否合理（前提是否成立、证据是否足够），产出降噪指南。不煽动、不贩卖焦虑。
-version: 0.1.0
+version: 0.7.0
 ---
 
 # /edu-anxiety 焦虑诊断

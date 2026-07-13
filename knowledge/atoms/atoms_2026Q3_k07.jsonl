@@ -1,54 +1,54 @@
-{"id":"k07-001","knowledge":"6-12个月是口味接受的窗口期,新食物反复提供十几次才被接受是常态,看到闻到舔到都算接触。","skills":["edu-routine"],"topics":["辅食","口味","窗口期"],"type":"method","confidence":0.9}
-{"id":"k07-002","knowledge":"勺喂应从正前方低角度水平接近,选浅窄小勺头,等孩子自己张口闭唇取食,不侧面插入不从上往下刮上唇。","skills":["edu-routine"],"topics":["辅食","勺喂","姿势"],"type":"method","confidence":0.9}
-{"id":"k07-003","knowledge":"进食时不边吃边擦嘴,每口都擦会打断口唇舌头的协调探索,餐末集中清理一次即可。","skills":["edu-routine"],"topics":["辅食","喂养"],"type":"method","confidence":0.9}
-{"id":"k07-004","knowledge":"勺喂质地进阶路线：6月泥糊→7月粗质地→8-9月小颗粒手指食物→9月以上家庭质地。","skills":["edu-routine"],"topics":["辅食","质地","进阶"],"type":"method","confidence":0.9}
-{"id":"k07-005","knowledge":"飞机喂法从上往下俯冲进嘴会触发呕吐反射,应避免。","skills":["edu-behavior"],"topics":["辅食","喂养","误区"],"type":"anti-pattern","confidence":0.9}
-{"id":"k07-006","knowledge":"忽略饱腹信号或怕浪费追喂会破坏孩子的饥饱感。","skills":["edu-behavior"],"topics":["辅食","喂养","误区"],"type":"anti-pattern","confidence":0.9}
-{"id":"k07-007","knowledge":"太饿或太困不适合喂辅食,奶后不久尝少量孩子更配合。","skills":["edu-routine"],"topics":["辅食","喂养","时机"],"type":"method","confidence":0.9}
-{"id":"k07-008","knowledge":"辅食时孩子需坐直脚有支撑,脚悬空歪斜影响吞咽协调;五点式安全带比三点式稳,半躺吃增加呛咳风险。","skills":["edu-routine"],"topics":["辅食","坐姿","安全"],"type":"method","confidence":0.9}
-{"id":"k07-009","knowledge":"作呕有声音脸红有作呕动作是保护反射,不要拍背抠嘴;窒息是无声发青不能出声,需立即干预。","skills":["edu-diagnosis"],"topics":["辅食","安全","窒息"],"type":"method","confidence":0.9}
-{"id":"k07-010","knowledge":"窒息食物处理总原则：硬煮软、圆切长条或四瓣、黏抹薄;4岁前不提供爆米花和硬糖。","skills":["edu-routine"],"topics":["安全","窒息","食物"],"type":"method","confidence":0.9}
-{"id":"k07-011","knowledge":"8月前扔食物多偶然不会主动松手,8月后转头闭嘴推开碗都是饱了信号,把扔食当结束按钮不强留。","skills":["edu-behavior"],"topics":["辅食","信号","饱腹"],"type":"method","confidence":0.9}
-{"id":"k07-012","knowledge":"SIDS是脆弱婴儿×关键发育期(2-4月风险最高)×外部压力源三重叠加,对策是消除可控的外部压力源。","skills":["edu-routine"],"topics":["睡眠","安全","SIDS"],"type":"principle","confidence":0.9}
-{"id":"k07-013","knowledge":"推广仰卧后SIDS降过半但斜颈和扁头增多,对策:睡觉严格仰卧,清醒时保证足量俯趴。","skills":["edu-routine"],"topics":["睡眠","安全","仰卧"],"type":"method","confidence":0.9}
-{"id":"k07-014","knowledge":"BChE偏低只是潜在生物标志物线索非病因,不能筛查预测;最可靠预防仍是仰卧、清空床面、不热。","skills":["edu-aim"],"topics":["睡眠","安全","SIDS"],"type":"insight","confidence":0.9}
-{"id":"k07-015","knowledge":"同床安全七条：硬床垫、床远离墙缝、婴儿睡大人一侧不夹中间、全程仰卧、清空被褥枕头、睡袋替盖毯、告知伴侣。","skills":["edu-routine"],"topics":["睡眠","安全","同床"],"type":"method","confidence":0.9}
-{"id":"k07-016","knowledge":"五种绝不共睡:照护者烟酒药嗜睡疲劳;婴儿＜4月或早产低体重;厚被褥大枕头;有其他孩子宠物;沙发软椅水床等非坚实面。","skills":["edu-routine"],"topics":["睡眠","安全","共睡"],"type":"method","confidence":0.9}
-{"id":"k07-017","knowledge":"意外同床比计划同床更危险,有共睡可能时白天就移走枕头厚被,设15-20分钟闹钟提醒放回小床。","skills":["edu-routine"],"topics":["睡眠","安全","同床"],"type":"method","confidence":0.9}
-{"id":"k07-018","knowledge":"斜坡垫让婴儿下巴压胸口压迫气道不缓解反流;软床围与网状床围有缠绕卡住风险,床越空越安全。","skills":["edu-aim"],"topics":["睡眠","安全"],"type":"anti-pattern","confidence":0.9}
-{"id":"k07-019","knowledge":"白噪音选连续一致声(雨声风扇声)帮衔接睡眠周期,设备离睡眠位≥2米音量适中。","skills":["edu-routine"],"topics":["睡眠","白噪音"],"type":"method","confidence":0.9}
-{"id":"k07-020","knowledge":"新生儿活跃睡眠时笑皱眉扭动是大脑发育表现,先观察几十秒别冲进去抱。","skills":["edu-routine"],"topics":["睡眠","新生儿"],"type":"method","confidence":0.9}
-{"id":"k07-021","knowledge":"3月前晚10-11点入睡正常,约3月后渐提前到晚8点,首段连续睡眠约5小时。","skills":["edu-routine"],"topics":["睡眠","节奏","新生儿"],"type":"method","confidence":0.9}
-{"id":"k07-022","knowledge":"清醒窗口三合一看:醒窗时长+困倦信号+上一觉质量;早期困倦是眼神失焦动作变少,打哈欠揉眼已偏晚。","skills":["edu-routine"],"topics":["睡眠","清醒窗口"],"type":"method","confidence":0.9}
-{"id":"k07-023","knowledge":"小睡转换大致节奏:0-4月4-5次→4-6月3-4次→6-9月2-3次→12-18月1-2次,末次取消在2.5-6岁。","skills":["edu-routine"],"topics":["睡眠","小睡","节奏"],"type":"method","confidence":0.9}
-{"id":"k07-024","knowledge":"0-6月短小睡因一个睡眠周期未接上,5-6月起试暂停1-3分钟让孩子自己接觉,同时练「迷糊但醒着」放下。","skills":["edu-routine"],"topics":["睡眠","小睡","接觉"],"type":"method","confidence":0.9}
-{"id":"k07-025","knowledge":"凌晨早醒三触发:白天睡太多、清晨光线声音太早、早醒被当起床强化;对策查白天总量拉严窗帘白噪音遮晨响。","skills":["edu-diagnosis"],"topics":["睡眠","早醒"],"type":"method","confidence":0.9}
-{"id":"k07-026","knowledge":"6周内白天连睡超约4小时需喂奶;4月后末觉距入睡不足醒窗也需温和叫醒调作息。","skills":["edu-routine"],"topics":["睡眠","叫醒"],"type":"method","confidence":0.9}
-{"id":"k07-027","knowledge":"如厕训练准备度信号:白天能保持1-2小时干爽且排便大多柔软成形,两者出现再开始。","skills":["edu-routine"],"topics":["如厕","准备度"],"type":"method","confidence":0.9}
-{"id":"k07-028","knowledge":"不问「要去厕所吗」,改描述身体线索如「你在原地跳身体好像在说想尿尿」,穿训练裤增加干湿脏的体感反馈。","skills":["edu-talk"],"topics":["如厕","沟通"],"type":"method","confidence":0.9}
-{"id":"k07-029","knowledge":"坐厕每次不超3-5分钟;事故后平静参与清理,带去卫生间一起换放进洗衣机,不在客厅匆匆换完。","skills":["edu-behavior"],"topics":["如厕","事故"],"type":"method","confidence":0.9}
-{"id":"k07-030","knowledge":"尿床闹钟是5岁以上遗尿的有效干预,治愈率约65-75%需持续8-12周;遗尿率随年龄自然下降。","skills":["edu-routine"],"topics":["如厕","遗尿"],"type":"method","confidence":0.9}
-{"id":"k07-031","knowledge":"侧抱起:先滚到侧身再从侧面抱起让孩子自己启动核心用力练颈背力量,非从腰背铲起。","skills":["edu-routine"],"topics":["动作","抱起"],"type":"method","confidence":0.9}
-{"id":"k07-032","knowledge":"容器跳跃(安全椅→推车→弹跳椅→高脚椅连续切换)缺少地面活动,单设备控制在十几分钟一日不多次。","skills":["edu-aim"],"topics":["动作","活动","安全"],"type":"method","confidence":0.9}
-{"id":"k07-033","knowledge":"俯趴累计:6周-3月每次1-3分全天15-20分;3-5月累计30-60分;抗拒时用哺乳枕垫胸橄榄球抱等替代式。","skills":["edu-routine"],"topics":["动作","俯趴"],"type":"method","confidence":0.9}
-{"id":"k07-034","knowledge":"W坐偶尔无妨,关键看能否在长坐盘腿侧坐间自由切换;只固定W坐可能导致核心薄弱髋关节压力大。","skills":["edu-diagnosis"],"topics":["动作","坐姿"],"type":"method","confidence":0.9}
-{"id":"k07-035","knowledge":"学坐四步渐进:支撑点从肋骨→躯干→骨盆→髋部逐步下降,同步引入动态坐轻倾后让他自己回正练平衡。","skills":["edu-routine"],"topics":["动作","学坐"],"type":"method","confidence":0.9}
-{"id":"k07-036","knowledge":"地板坐椅导致骨盆后卷背弓脖子前伸干扰正常坐姿;替代方案趴玩或坐大人腿间用身体当支撑。","skills":["edu-aim"],"topics":["动作","坐姿"],"type":"method","confidence":0.9}
-{"id":"k07-037","knowledge":"不抓手走路,改为扶肋骨两侧或骨盆让孩子自找重心;扶家具横走是自然过渡。","skills":["edu-routine"],"topics":["动作","学步"],"type":"method","confidence":0.9}
-{"id":"k07-038","knowledge":"学步车已有国家禁售专业机构建议禁止;跳跳椅风险包括夹具松脱弹簧夹手被推撞坠跌且练错脚尖蹬发力。","skills":["edu-aim"],"topics":["动作","安全"],"type":"anti-pattern","confidence":0.9}
-{"id":"k07-039","knowledge":"爬行练习要点:俯趴时玩具放正前侧前稍低位;孩子自己进出坐姿比被动摆四点撑更重要;9-10月仍少转换姿势需评估。","skills":["edu-routine"],"topics":["动作","爬行"],"type":"method","confidence":0.9}
-{"id":"k07-040","knowledge":"没长牙前用湿纱布或指套擦牙龈每天1-2次,熟悉口腔触感为刷牙铺路。","skills":["edu-routine"],"topics":["口腔","出牙","刷牙"],"type":"method","confidence":0.9}
-{"id":"k07-041","knowledge":"含氟牙膏用量:＜18月低龋风险用米粒大;18月后换豌豆大;睡前刷牙最重要,睡眠时唾液少自洁弱。","skills":["edu-routine"],"topics":["口腔","刷牙","氟"],"type":"method","confidence":0.9}
-{"id":"k07-042","knowledge":"乳牙非临时牙,承担咀嚼发音颌面发育引导恒牙排列,坏了影响排列和发音。","skills":["edu-aim"],"topics":["口腔","乳牙"],"type":"principle","confidence":0.9}
-{"id":"k07-043","knowledge":"不按着刷:坐腿上背靠胸前对镜,先刷自己示范再给他牙刷探索,每次几秒固定短歌计时。","skills":["edu-routine"],"topics":["口腔","刷牙"],"type":"method","confidence":0.9}
-{"id":"k07-044","knowledge":"出牙缓解五法:冷藏非冷冻咬牙胶、手指按摩牙龈、6月+给冷藏果泥降痛、擦口水拍干涂霜、安抚分散注意力。","skills":["edu-routine"],"topics":["出牙","缓解"],"type":"method","confidence":0.9}
-{"id":"k07-045","knowledge":"避免出牙危险品:琥珀牙胶有勒颈窒息风险、含苯佐卡因牙胶可能致高铁血红蛋白症、冷冻牙胶伤牙龈、酒精擦牙龈。","skills":["edu-aim"],"topics":["出牙","安全"],"type":"anti-pattern","confidence":0.9}
-{"id":"k07-046","knowledge":"长牙咬乳头多因奶流慢或吃饱试探;对策:出牙前给牙胶、奶流慢先挤、发现玩不吸时提前结束、咬人消灭在动作前。","skills":["edu-diagnosis"],"topics":["出牙","哺乳"],"type":"method","confidence":0.9}
-{"id":"k07-047","knowledge":"安抚奶嘴对打疫苗抽血等短暂疼痛有镇痛效果。","skills":["edu-routine"],"topics":["安抚","镇痛"],"type":"method","confidence":0.9}
-{"id":"k07-048","knowledge":"口腔探索安全:物品大到不吞咽、清除纽扣电池硬币磁珠、定期清洁入口物;用「这个可以放嘴里」替代「什么都别吃」。","skills":["edu-behavior"],"topics":["安全","口腔","探索"],"type":"method","confidence":0.9}
-{"id":"k07-049","knowledge":"睡眠不足使学习效率可降30-40%,少睡约40分钟即出现类注意力问题表现。","skills":["edu-aim"],"topics":["睡眠","认知"],"type":"insight","confidence":0.9}
-{"id":"k07-050","knowledge":"1岁起每天奶超500ml钙竞争抑制铁吸收,牛奶本身铁极低,控奶量保红肉深绿菜补铁。","skills":["edu-routine"],"topics":["喂养","铁","牛奶"],"type":"method","confidence":0.9}
-{"id":"k07-051","knowledge":"ALA转DHA效率仅约5-10%,纯素食需藻油等直接来源补充DHA。","skills":["edu-aim"],"topics":["喂养","DHA","素食"],"type":"insight","confidence":0.9}
-{"id":"k07-052","knowledge":"早餐对认知效应量约d=0.15-0.30,空腹使注意力和问题解决打折扣,非「吃了更聪明」。","skills":["edu-aim"],"topics":["喂养","早餐","认知"],"type":"insight","confidence":0.9}
-{"id":"k07-053","knowledge":"近视防护:户外光促视网膜多巴胺抑制眼轴过长,每天≥2小时户外活动,阴天也有效,关键在于光量。","skills":["edu-routine"],"topics":["视力","近视","户外"],"type":"method","confidence":0.9}
-{"id":"k07-054","knowledge":"玩具轮换:婴儿可频换,1岁每天或隔天调部分,2-3岁不必太频,深度投入比新鲜感重要。","skills":["edu-play"],"topics":["玩具","轮换"],"type":"method","confidence":0.9}
+{"id": "k07-001", "knowledge": "6-12个月是口味接受的窗口期,新食物反复提供十几次才被接受是常态,看到闻到舔到都算接触。", "skills": ["edu-family"], "topics": ["辅食", "口味", "窗口期"], "type": "method", "confidence": 0.9}
+{"id": "k07-002", "knowledge": "勺喂应从正前方低角度水平接近,选浅窄小勺头,等孩子自己张口闭唇取食,不侧面插入不从上往下刮上唇。", "skills": ["edu-family"], "topics": ["辅食", "勺喂", "姿势"], "type": "method", "confidence": 0.9}
+{"id": "k07-003", "knowledge": "进食时不边吃边擦嘴,每口都擦会打断口唇舌头的协调探索,餐末集中清理一次即可。", "skills": ["edu-family"], "topics": ["辅食", "喂养"], "type": "method", "confidence": 0.9}
+{"id": "k07-004", "knowledge": "勺喂质地进阶路线：6月泥糊→7月粗质地→8-9月小颗粒手指食物→9月以上家庭质地。", "skills": ["edu-family"], "topics": ["辅食", "质地", "进阶"], "type": "method", "confidence": 0.9}
+{"id": "k07-005", "knowledge": "飞机喂法从上往下俯冲进嘴会触发呕吐反射,应避免。", "skills": ["edu-behavior"], "topics": ["辅食", "喂养", "误区"], "type": "anti-pattern", "confidence": 0.9}
+{"id": "k07-006", "knowledge": "忽略饱腹信号或怕浪费追喂会破坏孩子的饥饱感。", "skills": ["edu-behavior"], "topics": ["辅食", "喂养", "误区"], "type": "anti-pattern", "confidence": 0.9}
+{"id": "k07-007", "knowledge": "太饿或太困不适合喂辅食,奶后不久尝少量孩子更配合。", "skills": ["edu-family"], "topics": ["辅食", "喂养", "时机"], "type": "method", "confidence": 0.9}
+{"id": "k07-008", "knowledge": "辅食时孩子需坐直脚有支撑,脚悬空歪斜影响吞咽协调;五点式安全带比三点式稳,半躺吃增加呛咳风险。", "skills": ["edu-family"], "topics": ["辅食", "坐姿", "安全"], "type": "method", "confidence": 0.9}
+{"id": "k07-009", "knowledge": "作呕有声音脸红有作呕动作是保护反射,不要拍背抠嘴;窒息是无声发青不能出声,需立即干预。", "skills": ["edu-diagnosis"], "topics": ["辅食", "安全", "窒息"], "type": "method", "confidence": 0.9}
+{"id": "k07-010", "knowledge": "窒息食物处理总原则：硬煮软、圆切长条或四瓣、黏抹薄;4岁前不提供爆米花和硬糖。", "skills": ["edu-family"], "topics": ["安全", "窒息", "食物"], "type": "method", "confidence": 0.9}
+{"id": "k07-011", "knowledge": "8月前扔食物多偶然不会主动松手,8月后转头闭嘴推开碗都是饱了信号,把扔食当结束按钮不强留。", "skills": ["edu-behavior"], "topics": ["辅食", "信号", "饱腹"], "type": "method", "confidence": 0.9}
+{"id": "k07-012", "knowledge": "SIDS是脆弱婴儿×关键发育期(2-4月风险最高)×外部压力源三重叠加,对策是消除可控的外部压力源。", "skills": ["edu-family"], "topics": ["睡眠", "安全", "SIDS"], "type": "principle", "confidence": 0.9}
+{"id": "k07-013", "knowledge": "推广仰卧后SIDS降过半但斜颈和扁头增多,对策:睡觉严格仰卧,清醒时保证足量俯趴。", "skills": ["edu-family"], "topics": ["睡眠", "安全", "仰卧"], "type": "method", "confidence": 0.9}
+{"id": "k07-014", "knowledge": "BChE偏低只是潜在生物标志物线索非病因,不能筛查预测;最可靠预防仍是仰卧、清空床面、不热。", "skills": ["edu-aim"], "topics": ["睡眠", "安全", "SIDS"], "type": "insight", "confidence": 0.9}
+{"id": "k07-015", "knowledge": "同床安全七条：硬床垫、床远离墙缝、婴儿睡大人一侧不夹中间、全程仰卧、清空被褥枕头、睡袋替盖毯、告知伴侣。", "skills": ["edu-family"], "topics": ["睡眠", "安全", "同床"], "type": "method", "confidence": 0.9}
+{"id": "k07-016", "knowledge": "五种绝不共睡:照护者烟酒药嗜睡疲劳;婴儿＜4月或早产低体重;厚被褥大枕头;有其他孩子宠物;沙发软椅水床等非坚实面。", "skills": ["edu-family"], "topics": ["睡眠", "安全", "共睡"], "type": "method", "confidence": 0.9}
+{"id": "k07-017", "knowledge": "意外同床比计划同床更危险,有共睡可能时白天就移走枕头厚被,设15-20分钟闹钟提醒放回小床。", "skills": ["edu-family"], "topics": ["睡眠", "安全", "同床"], "type": "method", "confidence": 0.9}
+{"id": "k07-018", "knowledge": "斜坡垫让婴儿下巴压胸口压迫气道不缓解反流;软床围与网状床围有缠绕卡住风险,床越空越安全。", "skills": ["edu-aim"], "topics": ["睡眠", "安全"], "type": "anti-pattern", "confidence": 0.9}
+{"id": "k07-019", "knowledge": "白噪音选连续一致声(雨声风扇声)帮衔接睡眠周期,设备离睡眠位≥2米音量适中。", "skills": ["edu-family"], "topics": ["睡眠", "白噪音"], "type": "method", "confidence": 0.9}
+{"id": "k07-020", "knowledge": "新生儿活跃睡眠时笑皱眉扭动是大脑发育表现,先观察几十秒别冲进去抱。", "skills": ["edu-family"], "topics": ["睡眠", "新生儿"], "type": "method", "confidence": 0.9}
+{"id": "k07-021", "knowledge": "3月前晚10-11点入睡正常,约3月后渐提前到晚8点,首段连续睡眠约5小时。", "skills": ["edu-family"], "topics": ["睡眠", "节奏", "新生儿"], "type": "method", "confidence": 0.9}
+{"id": "k07-022", "knowledge": "清醒窗口三合一看:醒窗时长+困倦信号+上一觉质量;早期困倦是眼神失焦动作变少,打哈欠揉眼已偏晚。", "skills": ["edu-family"], "topics": ["睡眠", "清醒窗口"], "type": "method", "confidence": 0.9}
+{"id": "k07-023", "knowledge": "小睡转换大致节奏:0-4月4-5次→4-6月3-4次→6-9月2-3次→12-18月1-2次,末次取消在2.5-6岁。", "skills": ["edu-family"], "topics": ["睡眠", "小睡", "节奏"], "type": "method", "confidence": 0.9}
+{"id": "k07-024", "knowledge": "0-6月短小睡因一个睡眠周期未接上,5-6月起试暂停1-3分钟让孩子自己接觉,同时练「迷糊但醒着」放下。", "skills": ["edu-family"], "topics": ["睡眠", "小睡", "接觉"], "type": "method", "confidence": 0.9}
+{"id": "k07-025", "knowledge": "凌晨早醒三触发:白天睡太多、清晨光线声音太早、早醒被当起床强化;对策查白天总量拉严窗帘白噪音遮晨响。", "skills": ["edu-diagnosis"], "topics": ["睡眠", "早醒"], "type": "method", "confidence": 0.9}
+{"id": "k07-026", "knowledge": "6周内白天连睡超约4小时需喂奶;4月后末觉距入睡不足醒窗也需温和叫醒调作息。", "skills": ["edu-family"], "topics": ["睡眠", "叫醒"], "type": "method", "confidence": 0.9}
+{"id": "k07-027", "knowledge": "如厕训练准备度信号:白天能保持1-2小时干爽且排便大多柔软成形,两者出现再开始。", "skills": ["edu-family"], "topics": ["如厕", "准备度"], "type": "method", "confidence": 0.9}
+{"id": "k07-028", "knowledge": "不问「要去厕所吗」,改描述身体线索如「你在原地跳身体好像在说想尿尿」,穿训练裤增加干湿脏的体感反馈。", "skills": ["edu-talk"], "topics": ["如厕", "沟通"], "type": "method", "confidence": 0.9}
+{"id": "k07-029", "knowledge": "坐厕每次不超3-5分钟;事故后平静参与清理,带去卫生间一起换放进洗衣机,不在客厅匆匆换完。", "skills": ["edu-behavior"], "topics": ["如厕", "事故"], "type": "method", "confidence": 0.9}
+{"id": "k07-030", "knowledge": "尿床闹钟是5岁以上遗尿的有效干预,治愈率约65-75%需持续8-12周;遗尿率随年龄自然下降。", "skills": ["edu-family"], "topics": ["如厕", "遗尿"], "type": "method", "confidence": 0.9}
+{"id": "k07-031", "knowledge": "侧抱起:先滚到侧身再从侧面抱起让孩子自己启动核心用力练颈背力量,非从腰背铲起。", "skills": ["edu-family"], "topics": ["动作", "抱起"], "type": "method", "confidence": 0.9}
+{"id": "k07-032", "knowledge": "容器跳跃(安全椅→推车→弹跳椅→高脚椅连续切换)缺少地面活动,单设备控制在十几分钟一日不多次。", "skills": ["edu-aim"], "topics": ["动作", "活动", "安全"], "type": "method", "confidence": 0.9}
+{"id": "k07-033", "knowledge": "俯趴累计:6周-3月每次1-3分全天15-20分;3-5月累计30-60分;抗拒时用哺乳枕垫胸橄榄球抱等替代式。", "skills": ["edu-family"], "topics": ["动作", "俯趴"], "type": "method", "confidence": 0.9}
+{"id": "k07-034", "knowledge": "W坐偶尔无妨,关键看能否在长坐盘腿侧坐间自由切换;只固定W坐可能导致核心薄弱髋关节压力大。", "skills": ["edu-diagnosis"], "topics": ["动作", "坐姿"], "type": "method", "confidence": 0.9}
+{"id": "k07-035", "knowledge": "学坐四步渐进:支撑点从肋骨→躯干→骨盆→髋部逐步下降,同步引入动态坐轻倾后让他自己回正练平衡。", "skills": ["edu-family"], "topics": ["动作", "学坐"], "type": "method", "confidence": 0.9}
+{"id": "k07-036", "knowledge": "地板坐椅导致骨盆后卷背弓脖子前伸干扰正常坐姿;替代方案趴玩或坐大人腿间用身体当支撑。", "skills": ["edu-aim"], "topics": ["动作", "坐姿"], "type": "method", "confidence": 0.9}
+{"id": "k07-037", "knowledge": "不抓手走路,改为扶肋骨两侧或骨盆让孩子自找重心;扶家具横走是自然过渡。", "skills": ["edu-family"], "topics": ["动作", "学步"], "type": "method", "confidence": 0.9}
+{"id": "k07-038", "knowledge": "学步车已有国家禁售专业机构建议禁止;跳跳椅风险包括夹具松脱弹簧夹手被推撞坠跌且练错脚尖蹬发力。", "skills": ["edu-aim"], "topics": ["动作", "安全"], "type": "anti-pattern", "confidence": 0.9}
+{"id": "k07-039", "knowledge": "爬行练习要点:俯趴时玩具放正前侧前稍低位;孩子自己进出坐姿比被动摆四点撑更重要;9-10月仍少转换姿势需评估。", "skills": ["edu-family"], "topics": ["动作", "爬行"], "type": "method", "confidence": 0.9}
+{"id": "k07-040", "knowledge": "没长牙前用湿纱布或指套擦牙龈每天1-2次,熟悉口腔触感为刷牙铺路。", "skills": ["edu-family"], "topics": ["口腔", "出牙", "刷牙"], "type": "method", "confidence": 0.9}
+{"id": "k07-041", "knowledge": "含氟牙膏用量:＜18月低龋风险用米粒大;18月后换豌豆大;睡前刷牙最重要,睡眠时唾液少自洁弱。", "skills": ["edu-family"], "topics": ["口腔", "刷牙", "氟"], "type": "method", "confidence": 0.9}
+{"id": "k07-042", "knowledge": "乳牙非临时牙,承担咀嚼发音颌面发育引导恒牙排列,坏了影响排列和发音。", "skills": ["edu-aim"], "topics": ["口腔", "乳牙"], "type": "principle", "confidence": 0.9}
+{"id": "k07-043", "knowledge": "不按着刷:坐腿上背靠胸前对镜,先刷自己示范再给他牙刷探索,每次几秒固定短歌计时。", "skills": ["edu-family"], "topics": ["口腔", "刷牙"], "type": "method", "confidence": 0.9}
+{"id": "k07-044", "knowledge": "出牙缓解五法:冷藏非冷冻咬牙胶、手指按摩牙龈、6月+给冷藏果泥降痛、擦口水拍干涂霜、安抚分散注意力。", "skills": ["edu-family"], "topics": ["出牙", "缓解"], "type": "method", "confidence": 0.9}
+{"id": "k07-045", "knowledge": "避免出牙危险品:琥珀牙胶有勒颈窒息风险、含苯佐卡因牙胶可能致高铁血红蛋白症、冷冻牙胶伤牙龈、酒精擦牙龈。", "skills": ["edu-aim"], "topics": ["出牙", "安全"], "type": "anti-pattern", "confidence": 0.9}
+{"id": "k07-046", "knowledge": "长牙咬乳头多因奶流慢或吃饱试探;对策:出牙前给牙胶、奶流慢先挤、发现玩不吸时提前结束、咬人消灭在动作前。", "skills": ["edu-diagnosis"], "topics": ["出牙", "哺乳"], "type": "method", "confidence": 0.9}
+{"id": "k07-047", "knowledge": "安抚奶嘴对打疫苗抽血等短暂疼痛有镇痛效果。", "skills": ["edu-family"], "topics": ["安抚", "镇痛"], "type": "method", "confidence": 0.9}
+{"id": "k07-048", "knowledge": "口腔探索安全:物品大到不吞咽、清除纽扣电池硬币磁珠、定期清洁入口物;用「这个可以放嘴里」替代「什么都别吃」。", "skills": ["edu-behavior"], "topics": ["安全", "口腔", "探索"], "type": "method", "confidence": 0.9}
+{"id": "k07-049", "knowledge": "睡眠不足使学习效率可降30-40%,少睡约40分钟即出现类注意力问题表现。", "skills": ["edu-aim"], "topics": ["睡眠", "认知"], "type": "insight", "confidence": 0.9}
+{"id": "k07-050", "knowledge": "1岁起每天奶超500ml钙竞争抑制铁吸收,牛奶本身铁极低,控奶量保红肉深绿菜补铁。", "skills": ["edu-family"], "topics": ["喂养", "铁", "牛奶"], "type": "method", "confidence": 0.9}
+{"id": "k07-051", "knowledge": "ALA转DHA效率仅约5-10%,纯素食需藻油等直接来源补充DHA。", "skills": ["edu-aim"], "topics": ["喂养", "DHA", "素食"], "type": "insight", "confidence": 0.9}
+{"id": "k07-052", "knowledge": "早餐对认知效应量约d=0.15-0.30,空腹使注意力和问题解决打折扣,非「吃了更聪明」。", "skills": ["edu-aim"], "topics": ["喂养", "早餐", "认知"], "type": "insight", "confidence": 0.9}
+{"id": "k07-053", "knowledge": "近视防护:户外光促视网膜多巴胺抑制眼轴过长,每天≥2小时户外活动,阴天也有效,关键在于光量。", "skills": ["edu-family"], "topics": ["视力", "近视", "户外"], "type": "method", "confidence": 0.9}
+{"id": "k07-054", "knowledge": "玩具轮换:婴儿可频换,1岁每天或隔天调部分,2-3岁不必太频,深度投入比新鲜感重要。", "skills": ["edu-lesson"], "topics": ["玩具", "轮换"], "type": "method", "confidence": 0.9}

@@ -1,76 +1,76 @@
-{"id":"k03-001","knowledge":"假装游戏是符号思维开端，认字本质是用图形代表词，靠它打底。","skills":["edu-play"],"topics":["假装游戏"],"type":"principle","confidence":"high"}
-{"id":"k03-002","knowledge":"约2岁能用A当B，3岁出连续情节，4-5岁会立假装的规则，仅为大致趋势。","skills":["edu-play"],"topics":["假装游戏","发展阶段"],"type":"benchmark","confidence":"high"}
-{"id":"k03-003","knowledge":"男孩同样需借假装发展语言和共情，别贴过家家是女孩玩的标签。","skills":["edu-play"],"topics":["假装游戏"],"type":"anti-pattern","confidence":"high"}
-{"id":"k03-004","knowledge":"开放材料（纸箱布料木棍石头）比声光玩具更激发想象，后者替孩子决定当什么。","skills":["edu-play","edu-content"],"topics":["假装游戏"],"type":"insight","confidence":"high"}
-{"id":"k03-005","knowledge":"大人做搭台者和接话者，别替定剧本，那会抽掉创造力灵魂。","skills":["edu-play"],"topics":["假装游戏"],"type":"method","confidence":"high"}
-{"id":"k03-006","knowledge":"孩子说这杯水有毒先别纠正，只有涉及安全（真喝不明液体）才介入。","skills":["edu-play"],"topics":["假装游戏"],"type":"method","confidence":"high"}
-{"id":"k03-007","knowledge":"假装游戏为小学练语言建构意义、观点采择、执行功能、自律雏形。","skills":["edu-play"],"topics":["假装游戏","幼小衔接"],"type":"principle","confidence":"high"}
-{"id":"k03-008","knowledge":"画是幼儿最早表达系统之一，看画看他在关注什么而非像不像。","skills":["edu-content"],"topics":["绘画"],"type":"principle","confidence":"high"}
-{"id":"k03-009","knowledge":"涂鸦期（1.5-3岁）重点能让线条出现，约3岁先画后命名是过渡好信号。","skills":["edu-content"],"topics":["绘画","发展阶段"],"type":"benchmark","confidence":"high"}
-{"id":"k03-010","knowledge":"象征期（3-5岁）蝌蚪人是抓重点（头腿），不是不会画身体。","skills":["edu-content"],"topics":["绘画","发展阶段"],"type":"benchmark","confidence":"high"}
-{"id":"k03-011","knowledge":"图式期（5-6岁）固定画法套路是巩固我会画了的自信，不是没创意。","skills":["edu-content"],"topics":["绘画","发展阶段"],"type":"benchmark","confidence":"high"}
-{"id":"k03-012","knowledge":"别教画得像才是教，临摹会掩盖真实认知水平、退场表达欲。","skills":["edu-content"],"topics":["绘画"],"type":"anti-pattern","confidence":"high"}
-{"id":"k03-013","knowledge":"别替孩子画，用提问把球还他：狗狗几条腿？你画它跑还是睡？","skills":["edu-content"],"topics":["绘画"],"type":"method","confidence":"high"}
-{"id":"k03-014","knowledge":"用像不像当表扬标准易让孩子受挫，改说你用了好多颜色。","skills":["edu-content"],"topics":["绘画"],"type":"anti-pattern","confidence":"high"}
-{"id":"k03-015","knowledge":"象征期天空涂紫草涂红是凭感觉用色表达情绪，除非他问否则别改。","skills":["edu-content"],"topics":["绘画"],"type":"insight","confidence":"high"}
-{"id":"k03-016","knowledge":"5岁以下临范画易变抄抑制主动观察，越小越该自由画。","skills":["edu-content"],"topics":["绘画"],"type":"anti-pattern","confidence":"high"}
-{"id":"k03-017","knowledge":"你画的是什么万能钥匙，传达在意他的表达、鼓励继续讲。","skills":["edu-content","edu-talk"],"topics":["绘画"],"type":"method","confidence":"high"}
-{"id":"k03-018","knowledge":"自由绘画为握笔、符号思维、看图写话、空间直觉、我敢创造打底。","skills":["edu-content"],"topics":["绘画","幼小衔接"],"type":"principle","confidence":"high"}
-{"id":"k03-019","knowledge":"大自然最本来的课堂，孩子用身体摸树皮石头比大小来认识世界。","skills":["edu-content"],"topics":["自然教育"],"type":"principle","confidence":"high"}
-{"id":"k03-020","knowledge":"自然不等于原始森林，行道树社区花园阳台几盆菜都是自然。","skills":["edu-content"],"topics":["自然教育"],"type":"insight","confidence":"high"}
-{"id":"k03-021","knowledge":"自然对专注情绪视力有正向关联，但它是有益因素之一不是治疗。","skills":["edu-content"],"topics":["自然教育"],"type":"anti-pattern","confidence":"high"}
-{"id":"k03-022","knowledge":"每天都有户外时间比一月一次大郊游更扎实，二十分钟看花追虫就行。","skills":["edu-content","edu-routine"],"topics":["自然教育"],"type":"method","confidence":"high"}
-{"id":"k03-023","knowledge":"用开放自然物当教具：石头数数、叶子拓印、树枝在沙地画画，无标准玩法。","skills":["edu-content"],"topics":["自然教育"],"type":"method","confidence":"high"}
-{"id":"k03-024","knowledge":"多提问少给答案：你发现它们在干什么？把观察推理主动权给孩子。","skills":["edu-content","edu-talk"],"topics":["自然教育"],"type":"method","confidence":"high"}
-{"id":"k03-025","knowledge":"安全底线内允许可控风险：看护下爬矮树踩石头，远离水域陡坡有毒植物。","skills":["edu-content"],"topics":["自然教育"],"type":"method","confidence":"high"}
-{"id":"k03-026","knowledge":"儿歌把语言轻重快慢放大重复，是最天然的带节奏语言课。","skills":["edu-content"],"topics":["音乐启蒙"],"type":"principle","confidence":"high"}
-{"id":"k03-027","knowledge":"听声音-预测时间-发动身体的循环是脑体配合基础，迁移到拍球写字。","skills":["edu-content"],"topics":["音乐启蒙"],"type":"principle","confidence":"high"}
-{"id":"k03-028","knowledge":"音乐不需懂道理就能影响情绪，是幼儿阶段不需说话就能调节的通道。","skills":["edu-content"],"topics":["音乐启蒙"],"type":"principle","confidence":"high"}
-{"id":"k03-029","knowledge":"0-6岁乐器训练既不必须也不优先，重点是身体先和节奏交朋友。","skills":["edu-content"],"topics":["音乐启蒙"],"type":"anti-pattern","confidence":"high"}
-{"id":"k03-030","knowledge":"幼儿音准不是重点，练的是参与感语感节奏，唱不准多因耳朵嗓子未协调。","skills":["edu-content"],"topics":["音乐启蒙"],"type":"insight","confidence":"high"}
-{"id":"k03-031","knowledge":"能让他动起来跟着哼的就好，儿歌童谣比当背景音没人互动的名曲有用。","skills":["edu-content"],"topics":["音乐启蒙"],"type":"anti-pattern","confidence":"high"}
-{"id":"k03-032","knowledge":"幼儿音乐认知先身体后符号，过早符号训练易让音乐变做题推远孩子。","skills":["edu-content"],"topics":["音乐启蒙"],"type":"anti-pattern","confidence":"high"}
-{"id":"k03-033","knowledge":"把儿歌织进日常流程：起床刷牙收玩具睡前，孩子要的是你和他一起唱。","skills":["edu-content","edu-routine"],"topics":["音乐启蒙"],"type":"method","confidence":"high"}
-{"id":"k03-034","knowledge":"做搭台者接话者：不替定剧本、不替画、不替唱、不抢答。","skills":["edu-play","edu-talk"],"topics":["通用原则"],"type":"principle","confidence":"high"}
-{"id":"k03-035","knowledge":"用发展阶段这把尺子看孩子，不用成人像不像对不对格调高的标准。","skills":["edu-benchmark"],"topics":["通用原则"],"type":"principle","confidence":"high"}
-{"id":"k03-036","knowledge":"衔接不是提前塞小学课本，是帮孩子平稳过渡到按课表上课自己管好自己。","skills":["edu-aim"],"topics":["幼小衔接"],"type":"principle","confidence":"high"}
-{"id":"k03-037","knowledge":"四大准备：身心、生活、社会、学习，重点是素质不是知识抢跑。","skills":["edu-aim"],"topics":["幼小衔接"],"type":"principle","confidence":"high"}
-{"id":"k03-038","knowledge":"生活自理是衔接最易被忽视却最关键的地基。","skills":["edu-routine"],"topics":["幼小衔接","生活准备"],"type":"insight","confidence":"high"}
-{"id":"k03-039","knowledge":"学习准备是萌芽不是提前写规范字算竖式，在生活游戏里长前阅读前书写数感。","skills":["edu-aim"],"topics":["幼小衔接","学习准备"],"type":"anti-pattern","confidence":"high"}
-{"id":"k03-040","knowledge":"零起点不等于零准备：小学从头教，家庭帮孩子长素质，两事不矛盾。","skills":["edu-aim"],"topics":["幼小衔接"],"type":"insight","confidence":"high"}
-{"id":"k03-041","knowledge":"幼儿思维具体形象为主，抽象符号规则一般6-7岁才长熟，提前背只是记声音。","skills":["edu-aim"],"topics":["幼小衔接"],"type":"principle","confidence":"high"}
-{"id":"k03-042","knowledge":"抢跑常把问题推后：一二年级走神，三四年级老本吃光坏习惯养成反掉队。","skills":["edu-decision"],"topics":["幼小衔接"],"type":"anti-pattern","confidence":"high"}
-{"id":"k03-043","knowledge":"机械抄写刷题把书等于枯燥种下，以后真要读书反而排斥。","skills":["edu-decision"],"topics":["幼小衔接"],"type":"anti-pattern","confidence":"high"}
-{"id":"k03-044","knowledge":"回应焦虑：小学零起点从头教，现在更重要的是身体习惯兴趣。","skills":["edu-anxiety"],"topics":["幼小衔接","家长焦虑"],"type":"method","confidence":"high"}
-{"id":"k03-045","knowledge":"家庭三点底线：不抢跑不加码、配合园校沟通、营造宽松氛围少吓孩子。","skills":["edu-decision"],"topics":["幼小衔接"],"type":"method","confidence":"high"}
-{"id":"k03-046","knowledge":"小班练自己吃饭，大班再教就难改依赖，准备是三年慢慢攒不是毕业前突击。","skills":["edu-routine"],"topics":["幼小衔接"],"type":"insight","confidence":"high"}
-{"id":"k03-047","knowledge":"判断衔接顺不顺靠蹲下看行为，不是坐下来考识字算数。","skills":["edu-diagnosis"],"topics":["幼小衔接","衔接质量"],"type":"principle","confidence":"high"}
-{"id":"k03-048","knowledge":"学习品质是最该观察的贯穿指标：愿试难事、卡住能坚持、爱探究。","skills":["edu-benchmark"],"topics":["幼小衔接","学习品质"],"type":"method","confidence":"high"}
-{"id":"k03-049","knowledge":"入学成熟可观察八维度：视知觉听知觉运动协调知觉转换语言沟通数学准备社会适应学习品质。","skills":["edu-benchmark"],"topics":["幼小衔接","成熟水平"],"type":"benchmark","confidence":"high"}
-{"id":"k03-050","knowledge":"听指令看两三步连续指令跟不跟得上，如先放碗再擦嘴最后搬椅子。","skills":["edu-benchmark"],"topics":["幼小衔接","听指令"],"type":"method","confidence":"medium"}
-{"id":"k03-051","knowledge":"记成长轶事写具体行为不写笼统评语，目的是理解差异不是焦虑攀比。","skills":["edu-report"],"topics":["幼小衔接","观察记录"],"type":"method","confidence":"high"}
-{"id":"k03-052","knowledge":"早教核心价值不在硬件不在提前认字，在每天看不见的互动。","skills":["edu-benchmark"],"topics":["早教质量"],"type":"principle","confidence":"high"}
-{"id":"k03-053","knowledge":"质量分两层：结构质量（师幼比班级规模师资）是基础，过程质量是核心。","skills":["edu-benchmark"],"topics":["早教质量"],"type":"principle","confidence":"high"}
-{"id":"k03-054","knowledge":"过程质量看师幼互动是否蹲下听孩子，冲突时一起想办法而非简单裁判。","skills":["edu-benchmark"],"topics":["早教质量","师幼互动"],"type":"method","confidence":"high"}
-{"id":"k03-055","knowledge":"看孩子有无充分自主游戏深入探究时间，而不是被排满集体灌输。","skills":["edu-benchmark","edu-play"],"topics":["早教质量","游戏"],"type":"method","confidence":"high"}
-{"id":"k03-056","knowledge":"关系氛围看孩子有无安全感归属感，能否用语言而非拳头解决争抢。","skills":["edu-benchmark"],"topics":["早教质量","关系氛围"],"type":"method","confidence":"high"}
-{"id":"k03-057","knowledge":"连续性重要：一日流程师幼关系稳定，而非每月换老师频繁打断。","skills":["edu-benchmark","edu-routine"],"topics":["早教质量","连续性"],"type":"method","confidence":"high"}
-{"id":"k03-058","knowledge":"一个大人对应孩子数不能太高，否则光维持秩序就顾不上谁的情绪需要。","skills":["edu-benchmark"],"topics":["早教质量","师幼比"],"type":"principle","confidence":"high"}
-{"id":"k03-059","knowledge":"西方研究被试常集中于特定人群，不能当全人类普遍代表直接套本地孩子。","skills":["edu-decision"],"topics":["本土适用"],"type":"insight","confidence":"high"}
-{"id":"k03-060","knowledge":"判断外来结论过四关：样本像不像、文化变不变、条件满不满足、工具准不准。","skills":["edu-decision"],"topics":["本土适用"],"type":"method","confidence":"high"}
-{"id":"k03-061","knowledge":"延迟满足类测试在资源不稳定环境，先拿到手可能是更适应策略非自控差。","skills":["edu-decision"],"topics":["本土适用"],"type":"insight","confidence":"high"}
-{"id":"k03-062","knowledge":"每天亲子共读落到没时间家庭是有没有条件非愿不愿意，做不到非不合格。","skills":["edu-decision"],"topics":["本土适用"],"type":"insight","confidence":"high"}
-{"id":"k03-063","knowledge":"引进国外评估表必须做本土化效度验证，字面对了测的东西可能已变。","skills":["edu-decision"],"topics":["本土适用"],"type":"method","confidence":"medium"}
-{"id":"k03-064","knowledge":"越是机制性方向性结论（多回应多对话给安全感）越敢跨文化交流。","skills":["edu-decision"],"topics":["本土适用"],"type":"principle","confidence":"high"}
-{"id":"k03-065","knowledge":"越是具体做法具体剂量具体分数，越要先问哪群孩子什么条件下得出。","skills":["edu-decision"],"topics":["本土适用"],"type":"principle","confidence":"high"}
-{"id":"k03-066","knowledge":"判断早教说法靠谱用证据可迁移性：别的群人好结果搬到我这灵不灵。","skills":["edu-decision"],"topics":["说法辨别"],"type":"principle","confidence":"high"}
-{"id":"k03-067","knowledge":"五问：样本像不像、测量靠不靠谱、效应量多大、重复过没有、文化适配吗。","skills":["edu-decision"],"topics":["说法辨别"],"type":"method","confidence":"high"}
-{"id":"k03-068","knowledge":"统计显著不等于作用大，大样本极小差别也能显著，要看效应量。","skills":["edu-decision"],"topics":["说法辨别"],"type":"insight","confidence":"high"}
-{"id":"k03-069","knowledge":"孤证（一家一篇）说速效神奇最要警惕，问还有谁独立验证过。","skills":["edu-decision"],"topics":["说法辨别"],"type":"anti-pattern","confidence":"high"}
-{"id":"k03-070","knowledge":"家长见神童训练法五问有俩答不上来，先别掏钱。","skills":["edu-decision"],"topics":["说法辨别","家长焦虑"],"type":"method","confidence":"high"}
-{"id":"k03-071","knowledge":"引用结论须附出身：对谁怎么测效应多大被重复过，否则标二手综述。","skills":["edu-report"],"topics":["说法辨别"],"type":"method","confidence":"high"}
-{"id":"k03-072","knowledge":"脑训练提升智商类宣称多地监管已认定违规，可信度低。","skills":["edu-decision"],"topics":["说法辨别"],"type":"anti-pattern","confidence":"medium"}
-{"id":"k03-073","knowledge":"长时间几乎不进想象性游戏或难参与协作性假装，建议寻求专业评估。","skills":["edu-diagnosis"],"topics":["信号","假装游戏"],"type":"case","confidence":"high"}
-{"id":"k03-074","knowledge":"绘画长期只乱线对笔无兴趣或明显回避手部精细活动，结合整体精细动作看。","skills":["edu-diagnosis"],"topics":["信号","绘画"],"type":"case","confidence":"high"}
-{"id":"k03-075","knowledge":"对自然户外声音音乐几乎无反应或强烈抗拒且伴其他发育疑虑，要留意。","skills":["edu-diagnosis"],"topics":["信号","艺术启蒙"],"type":"case","confidence":"high"}
-{"id":"k03-076","knowledge":"衔接信号：语言明显落后、不会和同伴相处、情绪难平复、专注极难、动作滞后、自理长期依赖。","skills":["edu-diagnosis"],"topics":["信号","幼小衔接"],"type":"case","confidence":"high"}
+{"id": "k03-001", "knowledge": "假装游戏是符号思维开端，认字本质是用图形代表词，靠它打底。", "skills": ["edu-lesson"], "topics": ["假装游戏"], "type": "principle", "confidence": "high"}
+{"id": "k03-002", "knowledge": "约2岁能用A当B，3岁出连续情节，4-5岁会立假装的规则，仅为大致趋势。", "skills": ["edu-lesson"], "topics": ["假装游戏", "发展阶段"], "type": "benchmark", "confidence": "high"}
+{"id": "k03-003", "knowledge": "男孩同样需借假装发展语言和共情，别贴过家家是女孩玩的标签。", "skills": ["edu-lesson"], "topics": ["假装游戏"], "type": "anti-pattern", "confidence": "high"}
+{"id": "k03-004", "knowledge": "开放材料（纸箱布料木棍石头）比声光玩具更激发想象，后者替孩子决定当什么。", "skills": ["edu-lesson", "edu-content"], "topics": ["假装游戏"], "type": "insight", "confidence": "high"}
+{"id": "k03-005", "knowledge": "大人做搭台者和接话者，别替定剧本，那会抽掉创造力灵魂。", "skills": ["edu-lesson"], "topics": ["假装游戏"], "type": "method", "confidence": "high"}
+{"id": "k03-006", "knowledge": "孩子说这杯水有毒先别纠正，只有涉及安全（真喝不明液体）才介入。", "skills": ["edu-lesson"], "topics": ["假装游戏"], "type": "method", "confidence": "high"}
+{"id": "k03-007", "knowledge": "假装游戏为小学练语言建构意义、观点采择、执行功能、自律雏形。", "skills": ["edu-lesson"], "topics": ["假装游戏", "幼小衔接"], "type": "principle", "confidence": "high"}
+{"id": "k03-008", "knowledge": "画是幼儿最早表达系统之一，看画看他在关注什么而非像不像。", "skills": ["edu-content"], "topics": ["绘画"], "type": "principle", "confidence": "high"}
+{"id": "k03-009", "knowledge": "涂鸦期（1.5-3岁）重点能让线条出现，约3岁先画后命名是过渡好信号。", "skills": ["edu-content"], "topics": ["绘画", "发展阶段"], "type": "benchmark", "confidence": "high"}
+{"id": "k03-010", "knowledge": "象征期（3-5岁）蝌蚪人是抓重点（头腿），不是不会画身体。", "skills": ["edu-content"], "topics": ["绘画", "发展阶段"], "type": "benchmark", "confidence": "high"}
+{"id": "k03-011", "knowledge": "图式期（5-6岁）固定画法套路是巩固我会画了的自信，不是没创意。", "skills": ["edu-content"], "topics": ["绘画", "发展阶段"], "type": "benchmark", "confidence": "high"}
+{"id": "k03-012", "knowledge": "别教画得像才是教，临摹会掩盖真实认知水平、退场表达欲。", "skills": ["edu-content"], "topics": ["绘画"], "type": "anti-pattern", "confidence": "high"}
+{"id": "k03-013", "knowledge": "别替孩子画，用提问把球还他：狗狗几条腿？你画它跑还是睡？", "skills": ["edu-content"], "topics": ["绘画"], "type": "method", "confidence": "high"}
+{"id": "k03-014", "knowledge": "用像不像当表扬标准易让孩子受挫，改说你用了好多颜色。", "skills": ["edu-content"], "topics": ["绘画"], "type": "anti-pattern", "confidence": "high"}
+{"id": "k03-015", "knowledge": "象征期天空涂紫草涂红是凭感觉用色表达情绪，除非他问否则别改。", "skills": ["edu-content"], "topics": ["绘画"], "type": "insight", "confidence": "high"}
+{"id": "k03-016", "knowledge": "5岁以下临范画易变抄抑制主动观察，越小越该自由画。", "skills": ["edu-content"], "topics": ["绘画"], "type": "anti-pattern", "confidence": "high"}
+{"id": "k03-017", "knowledge": "你画的是什么万能钥匙，传达在意他的表达、鼓励继续讲。", "skills": ["edu-content", "edu-talk"], "topics": ["绘画"], "type": "method", "confidence": "high"}
+{"id": "k03-018", "knowledge": "自由绘画为握笔、符号思维、看图写话、空间直觉、我敢创造打底。", "skills": ["edu-content"], "topics": ["绘画", "幼小衔接"], "type": "principle", "confidence": "high"}
+{"id": "k03-019", "knowledge": "大自然最本来的课堂，孩子用身体摸树皮石头比大小来认识世界。", "skills": ["edu-content"], "topics": ["自然教育"], "type": "principle", "confidence": "high"}
+{"id": "k03-020", "knowledge": "自然不等于原始森林，行道树社区花园阳台几盆菜都是自然。", "skills": ["edu-content"], "topics": ["自然教育"], "type": "insight", "confidence": "high"}
+{"id": "k03-021", "knowledge": "自然对专注情绪视力有正向关联，但它是有益因素之一不是治疗。", "skills": ["edu-content"], "topics": ["自然教育"], "type": "anti-pattern", "confidence": "high"}
+{"id": "k03-022", "knowledge": "每天都有户外时间比一月一次大郊游更扎实，二十分钟看花追虫就行。", "skills": ["edu-content", "edu-family"], "topics": ["自然教育"], "type": "method", "confidence": "high"}
+{"id": "k03-023", "knowledge": "用开放自然物当教具：石头数数、叶子拓印、树枝在沙地画画，无标准玩法。", "skills": ["edu-content"], "topics": ["自然教育"], "type": "method", "confidence": "high"}
+{"id": "k03-024", "knowledge": "多提问少给答案：你发现它们在干什么？把观察推理主动权给孩子。", "skills": ["edu-content", "edu-talk"], "topics": ["自然教育"], "type": "method", "confidence": "high"}
+{"id": "k03-025", "knowledge": "安全底线内允许可控风险：看护下爬矮树踩石头，远离水域陡坡有毒植物。", "skills": ["edu-content"], "topics": ["自然教育"], "type": "method", "confidence": "high"}
+{"id": "k03-026", "knowledge": "儿歌把语言轻重快慢放大重复，是最天然的带节奏语言课。", "skills": ["edu-content"], "topics": ["音乐启蒙"], "type": "principle", "confidence": "high"}
+{"id": "k03-027", "knowledge": "听声音-预测时间-发动身体的循环是脑体配合基础，迁移到拍球写字。", "skills": ["edu-content"], "topics": ["音乐启蒙"], "type": "principle", "confidence": "high"}
+{"id": "k03-028", "knowledge": "音乐不需懂道理就能影响情绪，是幼儿阶段不需说话就能调节的通道。", "skills": ["edu-content"], "topics": ["音乐启蒙"], "type": "principle", "confidence": "high"}
+{"id": "k03-029", "knowledge": "0-6岁乐器训练既不必须也不优先，重点是身体先和节奏交朋友。", "skills": ["edu-content"], "topics": ["音乐启蒙"], "type": "anti-pattern", "confidence": "high"}
+{"id": "k03-030", "knowledge": "幼儿音准不是重点，练的是参与感语感节奏，唱不准多因耳朵嗓子未协调。", "skills": ["edu-content"], "topics": ["音乐启蒙"], "type": "insight", "confidence": "high"}
+{"id": "k03-031", "knowledge": "能让他动起来跟着哼的就好，儿歌童谣比当背景音没人互动的名曲有用。", "skills": ["edu-content"], "topics": ["音乐启蒙"], "type": "anti-pattern", "confidence": "high"}
+{"id": "k03-032", "knowledge": "幼儿音乐认知先身体后符号，过早符号训练易让音乐变做题推远孩子。", "skills": ["edu-content"], "topics": ["音乐启蒙"], "type": "anti-pattern", "confidence": "high"}
+{"id": "k03-033", "knowledge": "把儿歌织进日常流程：起床刷牙收玩具睡前，孩子要的是你和他一起唱。", "skills": ["edu-content", "edu-family"], "topics": ["音乐启蒙"], "type": "method", "confidence": "high"}
+{"id": "k03-034", "knowledge": "做搭台者接话者：不替定剧本、不替画、不替唱、不抢答。", "skills": ["edu-lesson", "edu-talk"], "topics": ["通用原则"], "type": "principle", "confidence": "high"}
+{"id": "k03-035", "knowledge": "用发展阶段这把尺子看孩子，不用成人像不像对不对格调高的标准。", "skills": ["edu-benchmark"], "topics": ["通用原则"], "type": "principle", "confidence": "high"}
+{"id": "k03-036", "knowledge": "衔接不是提前塞小学课本，是帮孩子平稳过渡到按课表上课自己管好自己。", "skills": ["edu-aim"], "topics": ["幼小衔接"], "type": "principle", "confidence": "high"}
+{"id": "k03-037", "knowledge": "四大准备：身心、生活、社会、学习，重点是素质不是知识抢跑。", "skills": ["edu-aim"], "topics": ["幼小衔接"], "type": "principle", "confidence": "high"}
+{"id": "k03-038", "knowledge": "生活自理是衔接最易被忽视却最关键的地基。", "skills": ["edu-family"], "topics": ["幼小衔接", "生活准备"], "type": "insight", "confidence": "high"}
+{"id": "k03-039", "knowledge": "学习准备是萌芽不是提前写规范字算竖式，在生活游戏里长前阅读前书写数感。", "skills": ["edu-aim"], "topics": ["幼小衔接", "学习准备"], "type": "anti-pattern", "confidence": "high"}
+{"id": "k03-040", "knowledge": "零起点不等于零准备：小学从头教，家庭帮孩子长素质，两事不矛盾。", "skills": ["edu-aim"], "topics": ["幼小衔接"], "type": "insight", "confidence": "high"}
+{"id": "k03-041", "knowledge": "幼儿思维具体形象为主，抽象符号规则一般6-7岁才长熟，提前背只是记声音。", "skills": ["edu-aim"], "topics": ["幼小衔接"], "type": "principle", "confidence": "high"}
+{"id": "k03-042", "knowledge": "抢跑常把问题推后：一二年级走神，三四年级老本吃光坏习惯养成反掉队。", "skills": ["edu-decision"], "topics": ["幼小衔接"], "type": "anti-pattern", "confidence": "high"}
+{"id": "k03-043", "knowledge": "机械抄写刷题把书等于枯燥种下，以后真要读书反而排斥。", "skills": ["edu-decision"], "topics": ["幼小衔接"], "type": "anti-pattern", "confidence": "high"}
+{"id": "k03-044", "knowledge": "回应焦虑：小学零起点从头教，现在更重要的是身体习惯兴趣。", "skills": ["edu-anxiety"], "topics": ["幼小衔接", "家长焦虑"], "type": "method", "confidence": "high"}
+{"id": "k03-045", "knowledge": "家庭三点底线：不抢跑不加码、配合园校沟通、营造宽松氛围少吓孩子。", "skills": ["edu-decision"], "topics": ["幼小衔接"], "type": "method", "confidence": "high"}
+{"id": "k03-046", "knowledge": "小班练自己吃饭，大班再教就难改依赖，准备是三年慢慢攒不是毕业前突击。", "skills": ["edu-family"], "topics": ["幼小衔接"], "type": "insight", "confidence": "high"}
+{"id": "k03-047", "knowledge": "判断衔接顺不顺靠蹲下看行为，不是坐下来考识字算数。", "skills": ["edu-diagnosis"], "topics": ["幼小衔接", "衔接质量"], "type": "principle", "confidence": "high"}
+{"id": "k03-048", "knowledge": "学习品质是最该观察的贯穿指标：愿试难事、卡住能坚持、爱探究。", "skills": ["edu-benchmark"], "topics": ["幼小衔接", "学习品质"], "type": "method", "confidence": "high"}
+{"id": "k03-049", "knowledge": "入学成熟可观察八维度：视知觉听知觉运动协调知觉转换语言沟通数学准备社会适应学习品质。", "skills": ["edu-benchmark"], "topics": ["幼小衔接", "成熟水平"], "type": "benchmark", "confidence": "high"}
+{"id": "k03-050", "knowledge": "听指令看两三步连续指令跟不跟得上，如先放碗再擦嘴最后搬椅子。", "skills": ["edu-benchmark"], "topics": ["幼小衔接", "听指令"], "type": "method", "confidence": "medium"}
+{"id": "k03-051", "knowledge": "记成长轶事写具体行为不写笼统评语，目的是理解差异不是焦虑攀比。", "skills": ["edu-report"], "topics": ["幼小衔接", "观察记录"], "type": "method", "confidence": "high"}
+{"id": "k03-052", "knowledge": "早教核心价值不在硬件不在提前认字，在每天看不见的互动。", "skills": ["edu-benchmark"], "topics": ["早教质量"], "type": "principle", "confidence": "high"}
+{"id": "k03-053", "knowledge": "质量分两层：结构质量（师幼比班级规模师资）是基础，过程质量是核心。", "skills": ["edu-benchmark"], "topics": ["早教质量"], "type": "principle", "confidence": "high"}
+{"id": "k03-054", "knowledge": "过程质量看师幼互动是否蹲下听孩子，冲突时一起想办法而非简单裁判。", "skills": ["edu-benchmark"], "topics": ["早教质量", "师幼互动"], "type": "method", "confidence": "high"}
+{"id": "k03-055", "knowledge": "看孩子有无充分自主游戏深入探究时间，而不是被排满集体灌输。", "skills": ["edu-benchmark", "edu-lesson"], "topics": ["早教质量", "游戏"], "type": "method", "confidence": "high"}
+{"id": "k03-056", "knowledge": "关系氛围看孩子有无安全感归属感，能否用语言而非拳头解决争抢。", "skills": ["edu-benchmark"], "topics": ["早教质量", "关系氛围"], "type": "method", "confidence": "high"}
+{"id": "k03-057", "knowledge": "连续性重要：一日流程师幼关系稳定，而非每月换老师频繁打断。", "skills": ["edu-benchmark", "edu-family"], "topics": ["早教质量", "连续性"], "type": "method", "confidence": "high"}
+{"id": "k03-058", "knowledge": "一个大人对应孩子数不能太高，否则光维持秩序就顾不上谁的情绪需要。", "skills": ["edu-benchmark"], "topics": ["早教质量", "师幼比"], "type": "principle", "confidence": "high"}
+{"id": "k03-059", "knowledge": "西方研究被试常集中于特定人群，不能当全人类普遍代表直接套本地孩子。", "skills": ["edu-decision"], "topics": ["本土适用"], "type": "insight", "confidence": "high"}
+{"id": "k03-060", "knowledge": "判断外来结论过四关：样本像不像、文化变不变、条件满不满足、工具准不准。", "skills": ["edu-decision"], "topics": ["本土适用"], "type": "method", "confidence": "high"}
+{"id": "k03-061", "knowledge": "延迟满足类测试在资源不稳定环境，先拿到手可能是更适应策略非自控差。", "skills": ["edu-decision"], "topics": ["本土适用"], "type": "insight", "confidence": "high"}
+{"id": "k03-062", "knowledge": "每天亲子共读落到没时间家庭是有没有条件非愿不愿意，做不到非不合格。", "skills": ["edu-decision"], "topics": ["本土适用"], "type": "insight", "confidence": "high"}
+{"id": "k03-063", "knowledge": "引进国外评估表必须做本土化效度验证，字面对了测的东西可能已变。", "skills": ["edu-decision"], "topics": ["本土适用"], "type": "method", "confidence": "medium"}
+{"id": "k03-064", "knowledge": "越是机制性方向性结论（多回应多对话给安全感）越敢跨文化交流。", "skills": ["edu-decision"], "topics": ["本土适用"], "type": "principle", "confidence": "high"}
+{"id": "k03-065", "knowledge": "越是具体做法具体剂量具体分数，越要先问哪群孩子什么条件下得出。", "skills": ["edu-decision"], "topics": ["本土适用"], "type": "principle", "confidence": "high"}
+{"id": "k03-066", "knowledge": "判断早教说法靠谱用证据可迁移性：别的群人好结果搬到我这灵不灵。", "skills": ["edu-decision"], "topics": ["说法辨别"], "type": "principle", "confidence": "high"}
+{"id": "k03-067", "knowledge": "五问：样本像不像、测量靠不靠谱、效应量多大、重复过没有、文化适配吗。", "skills": ["edu-decision"], "topics": ["说法辨别"], "type": "method", "confidence": "high"}
+{"id": "k03-068", "knowledge": "统计显著不等于作用大，大样本极小差别也能显著，要看效应量。", "skills": ["edu-decision"], "topics": ["说法辨别"], "type": "insight", "confidence": "high"}
+{"id": "k03-069", "knowledge": "孤证（一家一篇）说速效神奇最要警惕，问还有谁独立验证过。", "skills": ["edu-decision"], "topics": ["说法辨别"], "type": "anti-pattern", "confidence": "high"}
+{"id": "k03-070", "knowledge": "家长见神童训练法五问有俩答不上来，先别掏钱。", "skills": ["edu-decision"], "topics": ["说法辨别", "家长焦虑"], "type": "method", "confidence": "high"}
+{"id": "k03-071", "knowledge": "引用结论须附出身：对谁怎么测效应多大被重复过，否则标二手综述。", "skills": ["edu-report"], "topics": ["说法辨别"], "type": "method", "confidence": "high"}
+{"id": "k03-072", "knowledge": "脑训练提升智商类宣称多地监管已认定违规，可信度低。", "skills": ["edu-decision"], "topics": ["说法辨别"], "type": "anti-pattern", "confidence": "medium"}
+{"id": "k03-073", "knowledge": "长时间几乎不进想象性游戏或难参与协作性假装，建议寻求专业评估。", "skills": ["edu-diagnosis"], "topics": ["信号", "假装游戏"], "type": "case", "confidence": "high"}
+{"id": "k03-074", "knowledge": "绘画长期只乱线对笔无兴趣或明显回避手部精细活动，结合整体精细动作看。", "skills": ["edu-diagnosis"], "topics": ["信号", "绘画"], "type": "case", "confidence": "high"}
+{"id": "k03-075", "knowledge": "对自然户外声音音乐几乎无反应或强烈抗拒且伴其他发育疑虑，要留意。", "skills": ["edu-diagnosis"], "topics": ["信号", "艺术启蒙"], "type": "case", "confidence": "high"}
+{"id": "k03-076", "knowledge": "衔接信号：语言明显落后、不会和同伴相处、情绪难平复、专注极难、动作滞后、自理长期依赖。", "skills": ["edu-diagnosis"], "topics": ["信号", "幼小衔接"], "type": "case", "confidence": "high"}

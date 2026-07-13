@@ -1,7 +1,7 @@
 ---
 name: edu-content
 description: 内容诊断——判断一个启蒙/教学活动/绘本/视频/教具是否真能发展能力（而非机械记忆或纯娱乐），产出改稿/改造清单。专业向，不生成营销文案。
-version: 0.1.0
+version: 0.7.0
 ---
 
 # /edu-content 内容诊断
