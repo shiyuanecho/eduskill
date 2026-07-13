@@ -4,16 +4,16 @@
     "name": "shiyuanecho"
   },
   "metadata": {
-    "description": "拾元·儿童成长工具箱 — 将专业早期教育资料整理为 846 个知识原子、1 个主入口与 36 个儿童成长 Skill，覆盖学力/行为/内容/焦虑/目标/体系诊断、活动与陪玩方案、概念讲法、常规沟通、备课、写评语、安全应急、家园共育、观察评估、差异化与融合支持，以及家长侧的分龄养育、作息屏幕、亲子沟通、选课衔接等。",
+    "description": "拾元·儿童成长工具箱 — 将专业早期教育资料整理为 846 个知识原子、1 个主入口与 23 个儿童成长 Skill，覆盖学力/行为/内容/焦虑/目标/体系诊断、活动与陪玩方案、概念讲法、常规沟通、备课、写评语、安全应急、家园共育、观察评估、差异化与融合支持，以及家长侧的分龄养育、作息屏幕、亲子沟通、选课衔接等。",
     "version": "0.7.0"
   },
   "plugins": [
     {
       "name": "edu",
-      "description": "拾元·儿童成长工具箱主入口。三种模式：新手教程、任务前路由、任务后导航。触发方式：/edu、/edu 新手入门、/育儿、「帮我看看」、「下一步怎么走」。Main entry for Shiyuan early-education toolkit: onboarding tutorial, pre-task routing, post-task navigation. 36 skills.",
+      "description": "拾元·儿童成长工具箱主入口。三种模式：新手教程、任务前路由、任务后导航。触发方式：/edu、/edu 新手入门、/育儿、「帮我看看」、「下一步怎么走」。Main entry for Shiyuan early-education toolkit: onboarding tutorial, pre-task routing, post-task navigation. 23 skills.",
       "source": "./",
       "strict": false,
-      "version": "0.6.0",
+      "version": "0.7.0",
       "category": "entry-router",
       "keywords": [
         "early-education",
@@ -32,7 +32,7 @@
       "description": "学力诊断——观察孩子在具体学习/成长任务（数数、分类、比较、空间、模式、对应、语言、社交、习惯、自理等）里的卡点，产出观察记录与下一步活动建议。只做观察记录，不下能力判定结论。触发：/edu-diagnosis、/学力诊断。",
       "source": "./",
       "strict": false,
-      "version": "0.6.0",
+      "version": "0.7.0",
       "category": "diagnostics",
       "keywords": [
         "learning",
@@ -50,7 +50,7 @@
       "description": "行为情绪诊断——看孩子发脾气、打人、分离焦虑、不肯睡等行为背后的原因，给出应对方向。只做观察记录，不下能力判定结论。触发：/edu-behavior、/行为情绪。",
       "source": "./",
       "strict": false,
-      "version": "0.6.0",
+      "version": "0.7.0",
       "category": "diagnostics",
       "keywords": [
         "behavior",
@@ -68,7 +68,7 @@
       "description": "内容诊断——判断一个活动/绘本/视频是不是真能发展能力，而不是假启蒙。触发：/edu-content、/内容诊断。",
       "source": "./",
       "strict": false,
-      "version": "0.6.0",
+      "version": "0.7.0",
       "category": "diagnostics",
       "keywords": [
         "content",
@@ -85,7 +85,7 @@
       "description": "焦虑诊断——判断家长某条焦虑合不合理，区分真风险与抢跑焦虑。触发：/edu-anxiety、/焦虑。",
       "source": "./",
       "strict": false,
-      "version": "0.6.0",
+      "version": "0.7.0",
       "category": "diagnostics",
       "keywords": [
         "anxiety",
@@ -102,7 +102,7 @@
       "description": "目标理清——帮家长/老师理清到底想让孩子获得什么，把模糊愿望变成可检查的收获。触发：/edu-aim、/目标理清。",
       "source": "./",
       "strict": false,
-      "version": "0.6.0",
+      "version": "0.7.0",
       "category": "diagnostics",
       "keywords": [
         "goal",
@@ -119,7 +119,7 @@
       "description": "体系对标——盘启蒙/教学体系的覆盖度，给出差距地图，指出缺哪块。触发：/edu-benchmark、/对标。",
       "source": "./",
       "strict": false,
-      "version": "0.6.0",
+      "version": "0.7.0",
       "category": "diagnostics",
       "keywords": [
         "benchmark",
@@ -132,28 +132,11 @@
       ]
     },
     {
-      "name": "edu-play",
-      "description": "活动/游戏设计——把一个目标拆成能玩的活动，给出具体玩法和材料。触发：/edu-play、/活动设计。",
-      "source": "./",
-      "strict": false,
-      "version": "0.6.0",
-      "category": "solution",
-      "keywords": [
-        "activity",
-        "play",
-        "design",
-        "chinese"
-      ],
-      "skills": [
-        "./skills/edu-play"
-      ]
-    },
-    {
       "name": "edu-talk",
       "description": "陪玩话术——给出陪玩/生活中现成的提问与回应话术，知道怎么问、怎么接。触发：/edu-talk、/陪玩话术。",
       "source": "./",
       "strict": false,
-      "version": "0.6.0",
+      "version": "0.7.0",
       "category": "solution",
       "keywords": [
         "talk",
@@ -166,78 +149,11 @@
       ]
     },
     {
-      "name": "edu-explain",
-      "description": "概念讲法——把一个抽象概念讲成孩子能懂的，给具体讲法示例。触发：/edu-explain、/概念讲法。",
-      "source": "./",
-      "strict": false,
-      "version": "0.6.0",
-      "category": "solution",
-      "keywords": [
-        "explain",
-        "concept",
-        "teaching",
-        "chinese"
-      ],
-      "skills": [
-        "./skills/edu-explain"
-      ]
-    },
-    {
-      "name": "edu-question",
-      "description": "提问设计——围绕一个主题设计能引发孩子思考的好问题。触发：/edu-question、/提问设计。",
-      "source": "./",
-      "strict": false,
-      "version": "0.6.0",
-      "category": "solution",
-      "keywords": [
-        "question",
-        "thinking",
-        "design",
-        "chinese"
-      ],
-      "skills": [
-        "./skills/edu-question"
-      ]
-    },
-    {
-      "name": "edu-routine",
-      "description": "一日流程与常规——设计作息、过渡环节、常规建立，给出可落地的流程。触发：/edu-routine、/常规。",
-      "source": "./",
-      "strict": false,
-      "version": "0.6.0",
-      "category": "daily-practice",
-      "keywords": [
-        "routine",
-        "schedule",
-        "habit",
-        "chinese"
-      ],
-      "skills": [
-        "./skills/edu-routine"
-      ]
-    },
-    {
-      "name": "edu-communicate",
-      "description": "家园沟通——把对孩子的观察翻译成家长/老师听得懂、不对立的话。触发：/edu-communicate、/家园沟通。",
-      "source": "./",
-      "strict": false,
-      "version": "0.6.0",
-      "category": "daily-practice",
-      "keywords": [
-        "communication",
-        "home-school",
-        "chinese"
-      ],
-      "skills": [
-        "./skills/edu-communicate"
-      ]
-    },
-    {
       "name": "edu-decision",
       "description": "选课决策——在几个课程/资源间做不后悔的选择，给出判断框架。触发：/edu-decision、/选课。",
       "source": "./",
       "strict": false,
-      "version": "0.6.0",
+      "version": "0.7.0",
       "category": "decision",
       "keywords": [
         "decision",
@@ -254,7 +170,7 @@
       "description": "进展记录——记一次孩子的变化，产出可回看的观察记录。触发：/edu-report、/记一笔。",
       "source": "./",
       "strict": false,
-      "version": "0.6.0",
+      "version": "0.7.0",
       "category": "record",
       "keywords": [
         "report",
@@ -271,7 +187,7 @@
       "description": "成长档案——跨会话为孩子建一份能长期回看的档案，存成文件追加维护。触发：/edu-archive、/档案。",
       "source": "./",
       "strict": false,
-      "version": "0.6.0",
+      "version": "0.7.0",
       "category": "record",
       "keywords": [
         "archive",
@@ -288,7 +204,7 @@
       "description": "备课/教案设计——把目标变成完整可上的教案，含学情分析、分层目标、弹性预案、家长在家版。触发：/edu-lesson、/备课、/写教案、/设计活动方案。",
       "source": "./",
       "strict": false,
-      "version": "0.6.0",
+      "version": "0.7.0",
       "category": "teacher-practice",
       "keywords": [
         "lesson",
@@ -305,7 +221,7 @@
       "description": "写评语——把观察记录翻译成家长/老师看得懂、用得上的学期评语、学习故事式评语、家园联系册一句话，含差异化模板。触发：/edu-comment、/写评语、/学期评语、/成长档案小结。",
       "source": "./",
       "strict": false,
-      "version": "0.6.0",
+      "version": "0.7.0",
       "category": "teacher-practice",
       "keywords": [
         "comment",
@@ -318,62 +234,11 @@
       ]
     },
     {
-      "name": "edu-safety",
-      "description": "课堂突发与安全应急——处理同伴冲突、情绪崩溃、离座乱跑、安全先兆、生理急症（呕吐/过敏/惊厥）的步骤卡，含对家长的话术与上报流程（须受训、非专业医疗建议、紧急打120）。触发：/edu-safety、/突发情况、/课堂安全、/应急。",
-      "source": "./",
-      "strict": false,
-      "version": "0.6.0",
-      "category": "teacher-practice",
-      "keywords": [
-        "safety",
-        "emergency",
-        "classroom",
-        "chinese"
-      ],
-      "skills": [
-        "./skills/edu-safety"
-      ]
-    },
-    {
-      "name": "edu-reflect",
-      "description": "教研反思与写作——活动复盘模板（目标-过程-幼儿反应-调整）、园本教研发言/记录模板、教研文章/案例写作框架。触发：/edu-reflect、/教研反思、/教研写作、/复盘、/园本教研。",
-      "source": "./",
-      "strict": false,
-      "version": "0.6.0",
-      "category": "teacher-practice",
-      "keywords": [
-        "reflect",
-        "research",
-        "teaching",
-        "chinese"
-      ],
-      "skills": [
-        "./skills/edu-reflect"
-      ]
-    },
-    {
-      "name": "edu-differentiate",
-      "description": "差异化与个别引导——把差异大的班变成可操作的分层分组、学习风格/气质适配、IEP雏形，含四类儿童（攻击/退缩/多动/规则弱）正确引导，不贴标签不自行诊断。触发：/edu-differentiate、/分层、/差异化、/个别引导。",
-      "source": "./",
-      "strict": false,
-      "version": "0.6.0",
-      "category": "teacher-practice",
-      "keywords": [
-        "differentiate",
-        "individual",
-        "grouping",
-        "chinese"
-      ],
-      "skills": [
-        "./skills/edu-differentiate"
-      ]
-    },
-    {
       "name": "edu-inclusive",
       "description": "特殊需要融合支持——融合教育与随班就读政策依据、IEP/ISP思路、常见障碍（孤独症/ADHD/语迟/感统）支持策略、资源教室、转介流程（筛查非诊断、转介专业）。触发：/edu-inclusive、/融合、/随班就读、/特殊需要。",
       "source": "./",
       "strict": false,
-      "version": "0.6.0",
+      "version": "0.7.0",
       "category": "teacher-practice",
       "keywords": [
         "inclusive",
@@ -390,7 +255,7 @@
       "description": "观察评估模板库——给幼儿园教师可直接抄用的观察记录方法（叙事/时间取样/事件取样/检核表/量表）、发展检核清单、学习故事模板、作品分析表。触发：/edu-observe、/观察记录、/观察模板、/检核表。",
       "source": "./",
       "strict": false,
-      "version": "0.6.0",
+      "version": "0.7.0",
       "category": "teacher-practice",
       "keywords": [
         "observe",
@@ -403,228 +268,11 @@
       ]
     },
     {
-      "name": "edu-material",
-      "description": "教具学具与课件——给教师和家长低结构材料玩法、自制教具清单、课件PPT制作原则、数字化资源生成思路，重实物操作、课件是辅助。触发：/edu-material、/教具、/课件、/自制教具。",
-      "source": "./",
-      "strict": false,
-      "version": "0.6.0",
-      "category": "teacher-practice",
-      "keywords": [
-        "material",
-        "teaching-aid",
-        "courseware",
-        "chinese"
-      ],
-      "skills": [
-        "./skills/edu-material"
-      ]
-    },
-    {
-      "name": "edu-env",
-      "description": "环境创设——给教师和家长区角划分、材料投放与标签、主题墙会说话、过渡环节的做法与清单模板，让环境成为第三位老师。触发：/edu-env、/区角、/环境创设、/主题墙。",
-      "source": "./",
-      "strict": false,
-      "version": "0.6.0",
-      "category": "teacher-practice",
-      "keywords": [
-        "environment",
-        "classroom-setup",
-        "chinese"
-      ],
-      "skills": [
-        "./skills/edu-env"
-      ]
-    },
-    {
-      "name": "edu-notice",
-      "description": "家园共育与家长会——给教师非暴力沟通话术、正向具体反馈结构、各场景话术对照、家长会流程与发言稿、给家长的一封信模板。触发：/edu-notice、/家长会、/家园沟通话术、/给家长的话。",
-      "source": "./",
-      "strict": false,
-      "version": "0.6.0",
-      "category": "teacher-practice",
-      "keywords": [
-        "home-school",
-        "meeting",
-        "script",
-        "chinese"
-      ],
-      "skills": [
-        "./skills/edu-notice"
-      ]
-    },
-    {
-      "name": "edu-workshop",
-      "description": "家长课堂/讲座素材——帮教师快速产出家长讲座/家长会/线上分享的主题框架、PPT大纲、讲稿要点、互动环节、给家长的一页纸。触发：/edu-workshop、/家长课堂、/讲座素材、/家长讲座。",
-      "source": "./",
-      "strict": false,
-      "version": "0.6.0",
-      "category": "teacher-practice",
-      "keywords": [
-        "workshop",
-        "parent-lecture",
-        "material",
-        "chinese"
-      ],
-      "skills": [
-        "./skills/edu-workshop"
-      ]
-    },
-    {
-      "name": "edu-studyplan",
-      "description": "学习与阅读规划——帮家长/老师规划孩子的兴趣班取舍、分级阅读与桥梁书过渡、在家学习节奏，含可直接套用的清单与模板，不下能力判定。触发：/edu-studyplan、/学习规划、/阅读规划、/兴趣班怎么选。",
-      "source": "./",
-      "strict": false,
-      "version": "0.6.0",
-      "category": "parent-practice",
-      "keywords": [
-        "study",
-        "reading",
-        "planning",
-        "chinese"
-      ],
-      "skills": [
-        "./skills/edu-studyplan"
-      ]
-    },
-    {
-      "name": "edu-screen",
-      "description": "作息与屏幕规划——给家长/老师一日作息表、周末假期安排、家庭屏幕公约与幼小衔接四大准备模板，时长建议标注以官方最新为准，不下判定。触发：/edu-screen、/作息规划、/屏幕管理、/幼小衔接准备。",
-      "source": "./",
-      "strict": false,
-      "version": "0.6.0",
-      "category": "parent-practice",
-      "keywords": [
-        "screen",
-        "schedule",
-        "parenting",
-        "chinese"
-      ],
-      "skills": [
-        "./skills/edu-screen"
-      ]
-    },
-    {
-      "name": "edu-time",
-      "description": "家庭时间管理与任务执行——给家长/老师视觉计时器、任务清单、习惯绑定、正强化等可直接用的模板，帮孩子外挂时间支架，不靠成人化硬管。触发：/edu-time、/时间管理、/孩子磨蹭、/任务执行、/番茄钟儿童版。",
-      "source": "./",
-      "strict": false,
-      "version": "0.6.0",
-      "category": "parent-practice",
-      "keywords": [
-        "time-management",
-        "task",
-        "parenting",
-        "chinese"
-      ],
-      "skills": [
-        "./skills/edu-time"
-      ]
-    },
-    {
-      "name": "edu-parenttalk",
-      "description": "亲子沟通与情绪引导——把日常冲突下的话变成孩子接得住、用得上的话。给我信息、启发式提问话术卡、Gottman 情绪教练五步、闹着不走/两娃抢玩具/不肯睡觉场景应对（与 edu-talk 陪玩话术区分）。触发：/edu-parenttalk、/亲子沟通、/情绪引导。",
-      "source": "./",
-      "strict": false,
-      "version": "0.6.0",
-      "category": "parent-practice",
-      "keywords": [
-        "parent-child",
-        "communication",
-        "emotion",
-        "chinese"
-      ],
-      "skills": [
-        "./skills/edu-parenttalk"
-      ]
-    },
-    {
-      "name": "edu-rules",
-      "description": "家庭规则与陪伴质量——帮家长定和善而坚定的少量核心规则、用专属时间/地板时间提升陪伴质量、养用餐睡眠如厕习惯。触发：/edu-rules、/家庭规则、/陪伴质量、/生活习惯。",
-      "source": "./",
-      "strict": false,
-      "version": "0.6.0",
-      "category": "parent-practice",
-      "keywords": [
-        "family-rules",
-        "companionship",
-        "chinese"
-      ],
-      "skills": [
-        "./skills/edu-rules"
-      ]
-    },
-    {
-      "name": "edu-schoolchoice",
-      "description": "选园选校——给幼儿园/小学考察清单、合理期望自查（ZPD/成长型思维）、家长情绪暂停、手足冲突调解、发展预警（非诊断）。触发：/edu-schoolchoice、/选园、/选校、/择校、/合理期望。",
-      "source": "./",
-      "strict": false,
-      "version": "0.6.0",
-      "category": "parent-practice",
-      "keywords": [
-        "school-choice",
-        "expectation",
-        "chinese"
-      ],
-      "skills": [
-        "./skills/edu-schoolchoice"
-      ]
-    },
-    {
-      "name": "edu-transition",
-      "description": "幼小衔接专项——按身心/生活/社会/学习四大准备给家庭科学衔接计划、衔接质量观察清单，明确反对提前刷题抢跑。衔接质量靠看行为不考试。触发：/edu-transition、/幼小衔接、/幼升小。",
-      "source": "./",
-      "strict": false,
-      "version": "0.6.0",
-      "category": "parent-practice",
-      "keywords": [
-        "transition",
-        "school-readiness",
-        "chinese"
-      ],
-      "skills": [
-        "./skills/edu-transition"
-      ]
-    },
-    {
-      "name": "edu-specialhome",
-      "description": "特殊需要儿童家庭指导——发育预警识别、早期干预路径与依据、家庭日常支持策略、与机构/学校配合、兄弟姐妹与家庭心理。强调筛查非诊断、转介专业。触发：/edu-specialhome、/特殊需要儿童、/发育迟缓怎么办。",
-      "source": "./",
-      "strict": false,
-      "version": "0.6.0",
-      "category": "parent-practice",
-      "keywords": [
-        "special-needs",
-        "family",
-        "guidance",
-        "chinese"
-      ],
-      "skills": [
-        "./skills/edu-specialhome"
-      ]
-    },
-    {
-      "name": "edu-coparent",
-      "description": "父亲参与与隔代教养——父亲参与证据与可参与事务、隔代教养特点与边界、三代协作规则、教养冲突化解。触发：/edu-coparent、/父亲参与、/隔代教养、/爷爷奶奶带娃。",
-      "source": "./",
-      "strict": false,
-      "version": "0.6.0",
-      "category": "parent-practice",
-      "keywords": [
-        "father",
-        "grandparent",
-        "co-parenting",
-        "chinese"
-      ],
-      "skills": [
-        "./skills/edu-coparent"
-      ]
-    },
-    {
       "name": "edu-ages",
       "description": "分龄发展养育指南——3-4/4-5/5-6/6-9 各龄里程碑与养育重点（身体/语言/认知/社会性）、危险信号清单，标注非诊断、疑点转介专业。触发：/edu-ages、/分龄养育、/几岁该会什么、/孩子是不是落后。",
       "source": "./",
       "strict": false,
-      "version": "0.6.0",
+      "version": "0.7.0",
       "category": "parent-practice",
       "keywords": [
         "age",
@@ -641,7 +289,7 @@
       "description": "多端 skill 桥接——把任意 edu-* skill 或整个 skills 目录用软链同时挂到 Claude Code、Codex、通用 Agents（豆包/Trae）和 Grok，改一处多端同步。触发：/edu-bridge、/bridge、「桥接这个 skill」「查看桥接状态」「拆桥」。",
       "source": "./",
       "strict": false,
-      "version": "0.6.0",
+      "version": "0.7.0",
       "category": "system",
       "keywords": [
         "bridge",
@@ -741,6 +389,26 @@
       ],
       "skills": [
         "./skills/edu-tutor"
+      ]
+    },
+    {
+      "name": "edu-family",
+      "description": "家庭日常管理——作息安排/屏幕管理/假期规划/时间管理/任务执行/家庭规则/陪伴质量/生活习惯/学习与阅读规划。触发：/edu-family、/作息、/屏幕时间、/磨蹭、/家庭规则、/怎么定规矩、/假期安排、/兴趣班、/分级阅读",
+      "source": "./",
+      "strict": false,
+      "version": "0.7.0",
+      "category": "parent-practice",
+      "keywords": [
+        "family",
+        "routine",
+        "screen",
+        "parenting",
+        "schedule",
+        "rules",
+        "chinese"
+      ],
+      "skills": [
+        "./skills/edu-family"
       ]
     },
     {
