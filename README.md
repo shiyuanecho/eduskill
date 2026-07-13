@@ -186,7 +186,9 @@ edu 当前正式发布 23 个 Skill。下面按用户目标列出入口；
 
 当前 Agent 没有立即读取到新能力时，新建一次对话后再使用。
 
-版本变更见 [GitHub Releases](https://github.com/shiyuanecho/eduskill/releases)。当前版本：`v0.7.0`。
+版本变更见 [GitHub Releases](https://github.com/shiyuanecho/eduskill/releases)。
+
+当前版本：**v0.7.0**
 
 ## 许可证
 
